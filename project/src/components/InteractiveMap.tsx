@@ -1,5 +1,5 @@
-import React, { useEffect, useRef } from 'react';
-import { City } from '../types';
+import React, { useEffect, useRef } from "react";
+import { City } from "../types";
 
 interface InteractiveMapProps {
   selectedCity: City | null;
@@ -16,7 +16,7 @@ declare global {
 export const InteractiveMap: React.FC<InteractiveMapProps> = ({
   selectedCity,
   cities,
-  onCitySelect
+  onCitySelect,
 }) => {
   const mapRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<any>(null);
@@ -26,25 +26,30 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
     if (!mapRef.current || mapInstanceRef.current) return;
 
     // Initialize map
-    mapInstanceRef.current = window.L.map(mapRef.current).setView([48.8566, 2.3522], 2);
+    mapInstanceRef.current = window.L.map(mapRef.current).setView(
+      [48.8566, 2.3522],
+      2
+    );
 
     // Add tile layer
-    window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '© OpenStreetMap contributors'
+    window.L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: "© OpenStreetMap contributors",
     }).addTo(mapInstanceRef.current);
 
     // Add city markers
     cities.forEach((city) => {
       const marker = window.L.marker([city.latitude, city.longitude])
         .addTo(mapInstanceRef.current)
-        .bindPopup(`
+        .bindPopup(
+          `
           <div class="p-2">
             <h3 class="font-semibold text-lg">${city.name}</h3>
             <p class="text-sm text-gray-600">${city.country}</p>
             <p class="text-xs text-gray-500 mt-1">${city.population.toLocaleString()} habitants</p>
           </div>
-        `)
-        .on('click', () => {
+        `
+        )
+        .on("click", () => {
           onCitySelect(city);
         });
 
@@ -64,11 +69,14 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
     if (!mapInstanceRef.current || !selectedCity) return;
 
     // Fly to selected city
-    mapInstanceRef.current.flyTo([selectedCity.latitude, selectedCity.longitude], 10);
+    mapInstanceRef.current.flyTo(
+      [selectedCity.latitude, selectedCity.longitude],
+      10
+    );
 
     // Update marker styles
     markersRef.current.forEach(({ marker, city }) => {
-      if (city.id === selectedCity.id) {
+      if (city.name === selectedCity.name) {
         marker.openPopup();
       }
     });
@@ -76,12 +84,12 @@ export const InteractiveMap: React.FC<InteractiveMapProps> = ({
 
   return (
     <div className="relative h-full bg-white rounded-2xl shadow-xl overflow-hidden">
-      <div 
+      <div
         ref={mapRef}
         className="w-full h-full"
-        style={{ minHeight: '400px' }}
+        style={{ minHeight: "400px" }}
       />
-      
+
       {/* Map overlay with gradient */}
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute top-0 left-0 right-0 h-20 bg-gradient-to-b from-black/5 to-transparent"></div>
