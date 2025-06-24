@@ -1,5 +1,20 @@
 import axios from 'axios';
 
+// Cache simple pour stabiliser les données de fallback
+const fallbackCache = new Map<string, number>();
+const cacheTimestamp = new Map<string, number>();
+
+// Nettoyer le cache après 30 minutes pour permettre des variations naturelles
+const cleanOldCacheEntries = () => {
+  const thirtyMinutesAgo = Date.now() - (30 * 60 * 1000);
+  for (const [key, timestamp] of cacheTimestamp) {
+    if (timestamp < thirtyMinutesAgo) {
+      fallbackCache.delete(key);
+      cacheTimestamp.delete(key);
+    }
+  }
+};
+
 // Types pour les APIs
 interface OpenMeteoAirQuality {
   latitude: number;
@@ -231,9 +246,32 @@ function generateHistoricalData(baseAqi: number, days: number = 30) {
   return data;
 }
 
+<<<<<<< HEAD
 function createFallbackCity(name: string, latitude: number, longitude: number, population: number, country: string, region: string) {
   // Données par défaut en cas d'erreur API
   const fallbackAqi = 45 + Math.random() * 30; // AQI entre 45 et 75
+=======
+function createFallbackCity(id: string, name: string, latitude: number, longitude: number, population: number, country: string, region: string, description: string) {
+  // Nettoyer les entrées de cache trop anciennes
+  cleanOldCacheEntries();
+  
+  // Utiliser le cache pour éviter les variations aléatoires trop importantes
+  let fallbackAqi: number;
+  
+  if (fallbackCache.has(id)) {
+    // Si on a une valeur en cache, ajouter seulement une petite variation réaliste
+    const cachedAqi = fallbackCache.get(id)!;
+    const smallVariation = (Math.random() - 0.5) * 8; // Variation de ±4 points max
+    fallbackAqi = Math.max(25, Math.min(90, cachedAqi + smallVariation));
+  } else {
+    // Première fois : générer une valeur de base et la mettre en cache
+    fallbackAqi = 40 + Math.random() * 30; // AQI entre 40 et 70
+  }
+  
+  // Mettre à jour le cache avec la nouvelle valeur et le timestamp
+  fallbackCache.set(id, fallbackAqi);
+  cacheTimestamp.set(id, Date.now());
+>>>>>>> 77f01a9de7728194728934e35aa8dc3914029ac8
   
   return {
     name,

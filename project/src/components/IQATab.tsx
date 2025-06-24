@@ -85,6 +85,13 @@ export const IQATab: React.FC = () => {
       markersRef.current.push({ marker, city });
     });
 
+    // Forcer le redimensionnement de la carte après un court délai
+    setTimeout(() => {
+      if (mapInstanceRef.current) {
+        mapInstanceRef.current.invalidateSize();
+      }
+    }, 100);
+
     return () => {
       if (mapInstanceRef.current) {
         mapInstanceRef.current.remove();
@@ -92,7 +99,7 @@ export const IQATab: React.FC = () => {
         markersRef.current = [];
       }
     };
-  }, [mapLoaded]);
+  }, [mapLoaded, frenchCities]);
 
   useEffect(() => {
     if (!mapInstanceRef.current || !selectedCity) return;
@@ -227,8 +234,8 @@ export const IQATab: React.FC = () => {
 
         {/* Carte */}
         <div className="xl:col-span-2">
-          <div className="bg-white rounded-xl shadow-sm border border-gray-200 h-full overflow-hidden">
-            <div className="p-4 border-b border-gray-200 flex items-center justify-between">
+          <div className="bg-white rounded-xl shadow-sm border border-gray-200 h-full flex flex-col">
+            <div className="p-4 border-b border-gray-200 flex items-center justify-between flex-shrink-0">
               <h3 className="font-semibold text-gray-900">Carte de la Qualité de l'Air</h3>
               <div className="flex items-center gap-4 text-xs">
                 <div className="flex items-center gap-1">
@@ -245,11 +252,12 @@ export const IQATab: React.FC = () => {
                 </div>
               </div>
             </div>
-            <div 
-              ref={mapRef}
-              className="w-full h-[calc(100%-4rem)]"
-              style={{ minHeight: '400px' }}
-            />
+            <div className="flex-1 relative overflow-hidden">
+              <div 
+                ref={mapRef}
+                className="absolute inset-0 w-full h-full"
+              />
+            </div>
           </div>
         </div>
 

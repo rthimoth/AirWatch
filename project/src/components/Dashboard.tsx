@@ -9,7 +9,7 @@ export const Dashboard: React.FC = () => {
   const totalCities = frenchCities.length;
   const avgAqi = totalCities > 0 ? Math.round(frenchCities.reduce((sum, city) => sum + city.airQuality.aqi, 0) / totalCities) : 0;
   const goodAirCities = frenchCities.filter(city => city.airQuality.aqi <= 50).length;
-  const badAirCities = frenchCities.filter(city => city.airQuality.aqi > 100).length;
+  const badAirCities = frenchCities.filter(city => city.airQuality.aqi > 50).length;
   const improvingCities = frenchCities.filter(city => city.airQuality.trend === 'improving').length;
   const worseningCities = frenchCities.filter(city => city.airQuality.trend === 'worsening').length;
 
@@ -31,7 +31,7 @@ export const Dashboard: React.FC = () => {
     { 
       title: 'Villes Polluées', 
       value: badAirCities.toString(), 
-      change: `${Math.round((badAirCities/totalCities)*100)}%`, 
+      change: `${Math.round((badAirCities/totalCities)*100)}% (IQA > 50)`, 
       icon: XCircle, 
       color: 'red' 
     },
