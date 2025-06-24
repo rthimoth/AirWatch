@@ -140,14 +140,12 @@ export const countriesService = {
 export const cityService = {
   // Créer une ville avec données de qualité de l'air en temps réel
   async createCityWithAirQuality(
-    id: string,
     name: string,
     latitude: number,
     longitude: number,
     population: number,
     country: string,
     region: string,
-    description: string
   ) {
     try {
       // Récupérer les données de qualité de l'air en temps réel
@@ -158,14 +156,12 @@ export const cityService = {
 
       // Convertir le format Open-Meteo vers notre format
       return {
-        id,
         name,
         latitude,
         longitude,
         population,
         country,
         region,
-        description,
         airQuality: {
           aqi: Math.round(airQualityData.current.european_aqi),
           category: getAirQualityCategory(airQualityData.current.european_aqi),
@@ -186,7 +182,7 @@ export const cityService = {
     } catch (error) {
       console.error(`Erreur lors de la création de la ville ${name}:`, error);
       // Retourner des données par défaut en cas d'erreur
-      return createFallbackCity(id, name, latitude, longitude, population, country, region, description);
+      return createFallbackCity(name, latitude, longitude, population, country, region);
     }
   }
 };
@@ -235,19 +231,17 @@ function generateHistoricalData(baseAqi: number, days: number = 30) {
   return data;
 }
 
-function createFallbackCity(id: string, name: string, latitude: number, longitude: number, population: number, country: string, region: string, description: string) {
+function createFallbackCity(name: string, latitude: number, longitude: number, population: number, country: string, region: string) {
   // Données par défaut en cas d'erreur API
   const fallbackAqi = 45 + Math.random() * 30; // AQI entre 45 et 75
   
   return {
-    id,
     name,
     latitude,
     longitude,
     population,
     country,
     region,
-    description,
     airQuality: {
       aqi: Math.round(fallbackAqi),
       category: getAirQualityCategory(fallbackAqi),

@@ -15,19 +15,6 @@ export const Header: React.FC = () => {
               <p className="text-xs text-gray-600">Surveillance de la Qualité de l'Air</p>
             </div>
           </div>
-          
-          <div className="flex items-center gap-4">
-            <button className="p-2 text-gray-400 hover:text-gray-600 transition-colors relative">
-              <Bell className="w-5 h-5" />
-              <span className="absolute -top-1 -right-1 w-3 h-3 bg-red-500 rounded-full"></span>
-            </button>
-            <button className="p-2 text-gray-400 hover:text-gray-600 transition-colors">
-              <Settings className="w-5 h-5" />
-            </button>
-            <div className="w-8 h-8 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-full flex items-center justify-center">
-              <span className="text-sm font-medium text-blue-600">A</span>
-            </div>
-          </div>
         </div>
       </div>
     </header>

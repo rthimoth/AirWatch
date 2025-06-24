@@ -1,0 +1,5018 @@
+[
+    {
+        "name": "Paris",
+        "latitude": "48.8567",
+        "longitude": "2.3522",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "2148271"
+    },
+    {
+        "name": "Bordeaux",
+        "latitude": "44.8400",
+        "longitude": "-0.5800",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "994920"
+    },
+    {
+        "name": "Marseille",
+        "latitude": "43.2964",
+        "longitude": "5.3700",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "873076"
+    },
+    {
+        "name": "Lyon",
+        "latitude": "45.7600",
+        "longitude": "4.8400",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "522250"
+    },
+    {
+        "name": "Toulouse",
+        "latitude": "43.6045",
+        "longitude": "1.4440",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "504078"
+    },
+    {
+        "name": "Nice",
+        "latitude": "43.7034",
+        "longitude": "7.2663",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "348085"
+    },
+    {
+        "name": "Nantes",
+        "latitude": "47.2181",
+        "longitude": "-1.5528",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "323204"
+    },
+    {
+        "name": "Montpellier",
+        "latitude": "43.6119",
+        "longitude": "3.8772",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "302454"
+    },
+    {
+        "name": "Strasbourg",
+        "latitude": "48.5833",
+        "longitude": "7.7458",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "291313"
+    },
+    {
+        "name": "Lille",
+        "latitude": "50.6278",
+        "longitude": "3.0583",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "236710"
+    },
+    {
+        "name": "Rennes",
+        "latitude": "48.1147",
+        "longitude": "-1.6794",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "225081"
+    },
+    {
+        "name": "Toulon",
+        "latitude": "43.1258",
+        "longitude": "5.9306",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "180452"
+    },
+    {
+        "name": "Reims",
+        "latitude": "49.2628",
+        "longitude": "4.0347",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "179380"
+    },
+    {
+        "name": "Saint-Étienne",
+        "latitude": "45.4347",
+        "longitude": "4.3903",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "172718"
+    },
+    {
+        "name": "Le Havre",
+        "latitude": "49.4900",
+        "longitude": "0.1000",
+        "country": "France",
+        "region": "Normandie",
+        "population": "166058"
+    },
+    {
+        "name": "Dijon",
+        "latitude": "47.3167",
+        "longitude": "5.0167",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "159346"
+    },
+    {
+        "name": "Grenoble",
+        "latitude": "45.1715",
+        "longitude": "5.7224",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "157477"
+    },
+    {
+        "name": "Angers",
+        "latitude": "47.4736",
+        "longitude": "-0.5542",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "157175"
+    },
+    {
+        "name": "Villeurbanne",
+        "latitude": "45.7667",
+        "longitude": "4.8803",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "156928"
+    },
+    {
+        "name": "Nîmes",
+        "latitude": "43.8383",
+        "longitude": "4.3597",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "148104"
+    },
+    {
+        "name": "Aix-en-Provence",
+        "latitude": "43.5263",
+        "longitude": "5.4454",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "147478"
+    },
+    {
+        "name": "Clermont-Ferrand",
+        "latitude": "45.7831",
+        "longitude": "3.0824",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "147327"
+    },
+    {
+        "name": "Le Mans",
+        "latitude": "48.0077",
+        "longitude": "0.1984",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "145004"
+    },
+    {
+        "name": "Brest",
+        "latitude": "48.3900",
+        "longitude": "-4.4900",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "139619"
+    },
+    {
+        "name": "Tours",
+        "latitude": "47.3936",
+        "longitude": "0.6892",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "137658"
+    },
+    {
+        "name": "Amiens",
+        "latitude": "49.8920",
+        "longitude": "2.2990",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "133625"
+    },
+    {
+        "name": "Annecy",
+        "latitude": "45.9160",
+        "longitude": "6.1330",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "131715"
+    },
+    {
+        "name": "Limoges",
+        "latitude": "45.8353",
+        "longitude": "1.2625",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "129760"
+    },
+    {
+        "name": "Metz",
+        "latitude": "49.1203",
+        "longitude": "6.1778",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "120874"
+    },
+    {
+        "name": "Boulogne-Billancourt",
+        "latitude": "48.8352",
+        "longitude": "2.2409",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "119808"
+    },
+    {
+        "name": "Perpignan",
+        "latitude": "42.6986",
+        "longitude": "2.8956",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "119656"
+    },
+    {
+        "name": "Besançon",
+        "latitude": "47.2400",
+        "longitude": "6.0200",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "119198"
+    },
+    {
+        "name": "Orléans",
+        "latitude": "47.9025",
+        "longitude": "1.9090",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "116617"
+    },
+    {
+        "name": "Rouen",
+        "latitude": "49.4428",
+        "longitude": "1.0886",
+        "country": "France",
+        "region": "Normandie",
+        "population": "114083"
+    },
+    {
+        "name": "Saint-Denis",
+        "latitude": "48.9356",
+        "longitude": "2.3539",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "113942"
+    },
+    {
+        "name": "Montreuil",
+        "latitude": "48.8611",
+        "longitude": "2.4436",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "111455"
+    },
+    {
+        "name": "Caen",
+        "latitude": "49.1814",
+        "longitude": "-0.3636",
+        "country": "France",
+        "region": "Normandie",
+        "population": "108200"
+    },
+    {
+        "name": "Argenteuil",
+        "latitude": "48.9500",
+        "longitude": "2.2500",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "107221"
+    },
+    {
+        "name": "Mulhouse",
+        "latitude": "47.7500",
+        "longitude": "7.3400",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "106341"
+    },
+    {
+        "name": "Nancy",
+        "latitude": "48.6936",
+        "longitude": "6.1846",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "104260"
+    },
+    {
+        "name": "Tourcoing",
+        "latitude": "50.7239",
+        "longitude": "3.1612",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "99011"
+    },
+    {
+        "name": "Roubaix",
+        "latitude": "50.6901",
+        "longitude": "3.1817",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "98892"
+    },
+    {
+        "name": "Nanterre",
+        "latitude": "48.8988",
+        "longitude": "2.1969",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "97351"
+    },
+    {
+        "name": "Vitry-sur-Seine",
+        "latitude": "48.7875",
+        "longitude": "2.3928",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "96205"
+    },
+    {
+        "name": "Créteil",
+        "latitude": "48.7911",
+        "longitude": "2.4628",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "92989"
+    },
+    {
+        "name": "Poitiers",
+        "latitude": "46.5800",
+        "longitude": "0.3400",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "90240"
+    },
+    {
+        "name": "Aubervilliers",
+        "latitude": "48.9131",
+        "longitude": "2.3831",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "90071"
+    },
+    {
+        "name": "Colombes",
+        "latitude": "48.9236",
+        "longitude": "2.2522",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "88870"
+    },
+    {
+        "name": "Dunkerque",
+        "latitude": "51.0383",
+        "longitude": "2.3775",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "86788"
+    },
+    {
+        "name": "Aulnay-sous-Bois",
+        "latitude": "48.9386",
+        "longitude": "2.4906",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "86135"
+    },
+    {
+        "name": "Versailles",
+        "latitude": "48.8053",
+        "longitude": "2.1350",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "83587"
+    },
+    {
+        "name": "Courbevoic",
+        "latitude": "48.8978",
+        "longitude": "2.2531",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "81516"
+    },
+    {
+        "name": "La Rochelle",
+        "latitude": "46.1600",
+        "longitude": "-1.1500",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "78535"
+    },
+    {
+        "name": "Rueil-Malmaison",
+        "latitude": "48.8760",
+        "longitude": "2.1810",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "78186"
+    },
+    {
+        "name": "Champigny-sur-Marne",
+        "latitude": "48.8172",
+        "longitude": "2.5156",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "77724"
+    },
+    {
+        "name": "Pau",
+        "latitude": "43.3000",
+        "longitude": "-0.3700",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "77066"
+    },
+    {
+        "name": "Mérignac",
+        "latitude": "44.8386",
+        "longitude": "-0.6436",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "75729"
+    },
+    {
+        "name": "Saint-Maur-des-Fossés",
+        "latitude": "48.7994",
+        "longitude": "2.4997",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "75441"
+    },
+    {
+        "name": "Antibes",
+        "latitude": "43.5808",
+        "longitude": "7.1239",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "75130"
+    },
+    {
+        "name": "Ajaccio",
+        "latitude": "41.9267",
+        "longitude": "8.7369",
+        "country": "France",
+        "region": "Corsica",
+        "population": "73822"
+    },
+    {
+        "name": "Cannes",
+        "latitude": "43.5513",
+        "longitude": "7.0128",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "73255"
+    },
+    {
+        "name": "Saint-Nazaire",
+        "latitude": "47.2736",
+        "longitude": "-2.2139",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "72057"
+    },
+    {
+        "name": "Drancy",
+        "latitude": "48.9300",
+        "longitude": "2.4500",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "71363"
+    },
+    {
+        "name": "Noisy-le-Grand",
+        "latitude": "48.8478",
+        "longitude": "2.5528",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "70374"
+    },
+    {
+        "name": "Issy-les-Moulineaux",
+        "latitude": "48.8239",
+        "longitude": "2.2700",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "68580"
+    },
+    {
+        "name": "Cergy",
+        "latitude": "49.0361",
+        "longitude": "2.0631",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "68348"
+    },
+    {
+        "name": "Levallois-Perret",
+        "latitude": "48.8950",
+        "longitude": "2.2872",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "68009"
+    },
+    {
+        "name": "Calais",
+        "latitude": "50.9481",
+        "longitude": "1.8564",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "67380"
+    },
+    {
+        "name": "Pessac",
+        "latitude": "44.8067",
+        "longitude": "-0.6311",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "66760"
+    },
+    {
+        "name": "Vénissieux",
+        "latitude": "45.6969",
+        "longitude": "4.8858",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "66363"
+    },
+    {
+        "name": "Clichy",
+        "latitude": "48.9044",
+        "longitude": "2.3064",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "64849"
+    },
+    {
+        "name": "Valence",
+        "latitude": "44.9333",
+        "longitude": "4.8917",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "64483"
+    },
+    {
+        "name": "Ivry-sur-Seine",
+        "latitude": "48.8078",
+        "longitude": "2.3747",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "64001"
+    },
+    {
+        "name": "Antony",
+        "latitude": "48.7539",
+        "longitude": "2.2975",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "63232"
+    },
+    {
+        "name": "Troyes",
+        "latitude": "48.2997",
+        "longitude": "4.0792",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "62782"
+    },
+    {
+        "name": "La Seyne-sur-Mer",
+        "latitude": "43.1000",
+        "longitude": "5.8830",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "62763"
+    },
+    {
+        "name": "Pantin",
+        "latitude": "48.8966",
+        "longitude": "2.4017",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "60800"
+    },
+    {
+        "name": "Chambéry",
+        "latitude": "45.5700",
+        "longitude": "5.9118",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "59856"
+    },
+    {
+        "name": "Neuilly-sur-Seine",
+        "latitude": "48.8881",
+        "longitude": "2.2686",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "59267"
+    },
+    {
+        "name": "Sarcelles",
+        "latitude": "48.9956",
+        "longitude": "2.3808",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "58424"
+    },
+    {
+        "name": "Le Blanc-Mesnil",
+        "latitude": "48.9387",
+        "longitude": "2.4614",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "58257"
+    },
+    {
+        "name": "Maisons-Alfort",
+        "latitude": "48.8058",
+        "longitude": "2.4378",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "58068"
+    },
+    {
+        "name": "Lorient",
+        "latitude": "47.7500",
+        "longitude": "-3.3600",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "57846"
+    },
+    {
+        "name": "Villejuif",
+        "latitude": "48.7919",
+        "longitude": "2.3636",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "57753"
+    },
+    {
+        "name": "Bellevue",
+        "latitude": "48.8710",
+        "longitude": "2.3850",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "57699"
+    },
+    {
+        "name": "Beauvais",
+        "latitude": "49.4303",
+        "longitude": "2.0952",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "56677"
+    },
+    {
+        "name": "Meaux",
+        "latitude": "48.9603",
+        "longitude": "2.8883",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "55616"
+    },
+    {
+        "name": "Bobigny",
+        "latitude": "48.9106",
+        "longitude": "2.4397",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "55056"
+    },
+    {
+        "name": "Clamart",
+        "latitude": "48.8014",
+        "longitude": "2.2628",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "54491"
+    },
+    {
+        "name": "Vannes",
+        "latitude": "47.6559",
+        "longitude": "-2.7603",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "54420"
+    },
+    {
+        "name": "Chelles",
+        "latitude": "48.8833",
+        "longitude": "2.6000",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "54309"
+    },
+    {
+        "name": "Évry",
+        "latitude": "48.6238",
+        "longitude": "2.4296",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "53641"
+    },
+    {
+        "name": "Épinay-sur-Seine",
+        "latitude": "48.9553",
+        "longitude": "2.3092",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "53489"
+    },
+    {
+        "name": "Saint-Ouen",
+        "latitude": "48.9123",
+        "longitude": "2.3342",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "53207"
+    },
+    {
+        "name": "Saint-Quentin",
+        "latitude": "49.8486",
+        "longitude": "3.2864",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "52958"
+    },
+    {
+        "name": "Bondy",
+        "latitude": "48.9022",
+        "longitude": "2.4828",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "52905"
+    },
+    {
+        "name": "Bayonne",
+        "latitude": "43.4900",
+        "longitude": "-1.4800",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "52749"
+    },
+    {
+        "name": "Corbeil-Essonnes",
+        "latitude": "48.6139",
+        "longitude": "2.4820",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "52683"
+    },
+    {
+        "name": "Cagnes-sur-Mer",
+        "latitude": "43.6644",
+        "longitude": "7.1489",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "52580"
+    },
+    {
+        "name": "Vaulx-en-Velin",
+        "latitude": "45.7768",
+        "longitude": "4.9186",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "52139"
+    },
+    {
+        "name": "Sevran",
+        "latitude": "48.9333",
+        "longitude": "2.5333",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "51845"
+    },
+    {
+        "name": "Fontenay-sous-Bois",
+        "latitude": "48.8517",
+        "longitude": "2.4772",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "51812"
+    },
+    {
+        "name": "Sartrouville",
+        "latitude": "48.9372",
+        "longitude": "2.1644",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "51220"
+    },
+    {
+        "name": "Massy",
+        "latitude": "48.7309",
+        "longitude": "2.2713",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "50962"
+    },
+    {
+        "name": "Laval",
+        "latitude": "48.0733",
+        "longitude": "-0.7689",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "49657"
+    },
+    {
+        "name": "Saint-Herblain",
+        "latitude": "47.2122",
+        "longitude": "-1.6497",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "49537"
+    },
+    {
+        "name": "Gennevilliers",
+        "latitude": "48.9333",
+        "longitude": "2.3000",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "49410"
+    },
+    {
+        "name": "Suresnes",
+        "latitude": "48.8700",
+        "longitude": "2.2200",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "49104"
+    },
+    {
+        "name": "Saint-Priest",
+        "latitude": "45.6964",
+        "longitude": "4.9439",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "48822"
+    },
+    {
+        "name": "Vincennes",
+        "latitude": "48.8478",
+        "longitude": "2.4392",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "48798"
+    },
+    {
+        "name": "Bastia",
+        "latitude": "42.7008",
+        "longitude": "9.4503",
+        "country": "France",
+        "region": "Corsica",
+        "population": "48768"
+    },
+    {
+        "name": "Montrouge",
+        "latitude": "48.8172",
+        "longitude": "2.3219",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "47657"
+    },
+    {
+        "name": "Évreux",
+        "latitude": "49.0200",
+        "longitude": "1.1500",
+        "country": "France",
+        "region": "Normandie",
+        "population": "47289"
+    },
+    {
+        "name": "La Courneuve",
+        "latitude": "48.9322",
+        "longitude": "2.3967",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "47160"
+    },
+    {
+        "name": "Charleville-Mézières",
+        "latitude": "49.7719",
+        "longitude": "4.7161",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "46398"
+    },
+    {
+        "name": "Meudon",
+        "latitude": "48.8123",
+        "longitude": "2.2382",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "46342"
+    },
+    {
+        "name": "Choisy-le-Roi",
+        "latitude": "48.7630",
+        "longitude": "2.4090",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "46129"
+    },
+    {
+        "name": "Noisy-le-Sec",
+        "latitude": "48.8894",
+        "longitude": "2.4503",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "46094"
+    },
+    {
+        "name": "Livry-Gargan",
+        "latitude": "48.9192",
+        "longitude": "2.5361",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "46028"
+    },
+    {
+        "name": "Rosny-sous-Bois",
+        "latitude": "48.8667",
+        "longitude": "2.4833",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "45655"
+    },
+    {
+        "name": "Talence",
+        "latitude": "44.8000",
+        "longitude": "-0.5840",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "45225"
+    },
+    {
+        "name": "Belfort",
+        "latitude": "47.6400",
+        "longitude": "6.8500",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "45155"
+    },
+    {
+        "name": "Alfortville",
+        "latitude": "48.8050",
+        "longitude": "2.4239",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "45046"
+    },
+    {
+        "name": "Chalon-sur-Saône",
+        "latitude": "46.7806",
+        "longitude": "4.8528",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "45031"
+    },
+    {
+        "name": "Sète",
+        "latitude": "43.4053",
+        "longitude": "3.6975",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "44712"
+    },
+    {
+        "name": "Mantes-la-Jolie",
+        "latitude": "48.9908",
+        "longitude": "1.7172",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "44539"
+    },
+    {
+        "name": "Saint-Brieuc",
+        "latitude": "48.5136",
+        "longitude": "-2.7653",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "44224"
+    },
+    {
+        "name": "Tarbes",
+        "latitude": "43.2300",
+        "longitude": "0.0700",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "43955"
+    },
+    {
+        "name": "Alès",
+        "latitude": "44.1281",
+        "longitude": "4.0817",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "43892"
+    },
+    {
+        "name": "Châlons-en-Champagne",
+        "latitude": "48.9575",
+        "longitude": "4.3650",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "43877"
+    },
+    {
+        "name": "Bagneux",
+        "latitude": "48.7983",
+        "longitude": "2.3137",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "43699"
+    },
+    {
+        "name": "Puteaux",
+        "latitude": "48.8850",
+        "longitude": "2.2389",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "43672"
+    },
+    {
+        "name": "Caluire-et-Cuire",
+        "latitude": "45.7953",
+        "longitude": "4.8472",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "43572"
+    },
+    {
+        "name": "Bron",
+        "latitude": "45.7386",
+        "longitude": "4.9131",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "43049"
+    },
+    {
+        "name": "Rezé",
+        "latitude": "47.1917",
+        "longitude": "-1.5694",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "42998"
+    },
+    {
+        "name": "Valenciennes",
+        "latitude": "50.3581",
+        "longitude": "3.5233",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "42991"
+    },
+    {
+        "name": "Châteauroux",
+        "latitude": "46.8103",
+        "longitude": "1.6911",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "42968"
+    },
+    {
+        "name": "Garges-lès-Gonesse",
+        "latitude": "48.9728",
+        "longitude": "2.4008",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "42841"
+    },
+    {
+        "name": "Arras",
+        "latitude": "50.2920",
+        "longitude": "2.7800",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "42600"
+    },
+    {
+        "name": "Melun",
+        "latitude": "48.5406",
+        "longitude": "2.6600",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "42367"
+    },
+    {
+        "name": "Le Cannet",
+        "latitude": "43.5769",
+        "longitude": "7.0194",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "41597"
+    },
+    {
+        "name": "Bourg-en-Bresse",
+        "latitude": "46.2056",
+        "longitude": "5.2289",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "41525"
+    },
+    {
+        "name": "Anglet",
+        "latitude": "43.4850",
+        "longitude": "-1.5183",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "41153"
+    },
+    {
+        "name": "Angoulême",
+        "latitude": "45.6500",
+        "longitude": "0.1600",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "41086"
+    },
+    {
+        "name": "Boulogne-sur-Mer",
+        "latitude": "50.7264",
+        "longitude": "1.6147",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "40910"
+    },
+    {
+        "name": "Wattrelos",
+        "latitude": "50.7000",
+        "longitude": "3.2170",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "40836"
+    },
+    {
+        "name": "Villenave-d’Ornon",
+        "latitude": "44.7806",
+        "longitude": "-0.5658",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "40500"
+    },
+    {
+        "name": "Stains",
+        "latitude": "48.9500",
+        "longitude": "2.3833",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "40359"
+    },
+    {
+        "name": "Gagny",
+        "latitude": "48.8833",
+        "longitude": "2.5333",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "40189"
+    },
+    {
+        "name": "Colomiers",
+        "latitude": "43.6139",
+        "longitude": "1.3367",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "40159"
+    },
+    {
+        "name": "Poissy",
+        "latitude": "48.9294",
+        "longitude": "2.0456",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "40016"
+    },
+    {
+        "name": "Douai",
+        "latitude": "50.3714",
+        "longitude": "3.0800",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "39648"
+    },
+    {
+        "name": "Bagnolet",
+        "latitude": "48.8692",
+        "longitude": "2.4181",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "39366"
+    },
+    {
+        "name": "Marcq-en-Baroeul",
+        "latitude": "50.6711",
+        "longitude": "3.0972",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "39356"
+    },
+    {
+        "name": "Villepinte",
+        "latitude": "48.9550",
+        "longitude": "2.5410",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "38725"
+    },
+    {
+        "name": "Saint-Martin-d’Hères",
+        "latitude": "45.1672",
+        "longitude": "5.7653",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "38454"
+    },
+    {
+        "name": "Chartres",
+        "latitude": "48.4560",
+        "longitude": "1.4840",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "38447"
+    },
+    {
+        "name": "Annemasse",
+        "latitude": "46.1958",
+        "longitude": "6.2364",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "37918"
+    },
+    {
+        "name": "Neuilly-sur-Marne",
+        "latitude": "48.8537",
+        "longitude": "2.5490",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "37531"
+    },
+    {
+        "name": "Franconville",
+        "latitude": "48.9889",
+        "longitude": "2.2314",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "37520"
+    },
+    {
+        "name": "Savigny-sur-Orge",
+        "latitude": "48.6797",
+        "longitude": "2.3457",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "37371"
+    },
+    {
+        "name": "Thonon-les-Bains",
+        "latitude": "46.3627",
+        "longitude": "6.4750",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "37027"
+    },
+    {
+        "name": "Échirolles",
+        "latitude": "45.1436",
+        "longitude": "5.7183",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "36849"
+    },
+    {
+        "name": "Châtillon",
+        "latitude": "48.8000",
+        "longitude": "2.2900",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "36777"
+    },
+    {
+        "name": "Athis-Mons",
+        "latitude": "48.7074",
+        "longitude": "2.3889",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "36222"
+    },
+    {
+        "name": "Creil",
+        "latitude": "49.2583",
+        "longitude": "2.4833",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "36106"
+    },
+    {
+        "name": "Conflans-Sainte-Honorine",
+        "latitude": "48.9992",
+        "longitude": "2.0983",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "35926"
+    },
+    {
+        "name": "Villefranche-sur-Saône",
+        "latitude": "45.9833",
+        "longitude": "4.7167",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "35913"
+    },
+    {
+        "name": "Meyzieu",
+        "latitude": "45.7667",
+        "longitude": "5.0036",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "35882"
+    },
+    {
+        "name": "Sainte-Geneviève-des-Bois",
+        "latitude": "48.6369",
+        "longitude": "2.3403",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "35846"
+    },
+    {
+        "name": "Villeneuve-Saint-Georges",
+        "latitude": "48.7325",
+        "longitude": "2.4497",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "35492"
+    },
+    {
+        "name": "Châtenay-Malabry",
+        "latitude": "48.7653",
+        "longitude": "2.2781",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "34898"
+    },
+    {
+        "name": "Palaiseau",
+        "latitude": "48.7145",
+        "longitude": "2.2457",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "34893"
+    },
+    {
+        "name": "Roanne",
+        "latitude": "46.0367",
+        "longitude": "4.0689",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "34762"
+    },
+    {
+        "name": "Le Perreux-Sur-Marne",
+        "latitude": "48.8422",
+        "longitude": "2.5036",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "34213"
+    },
+    {
+        "name": "Schiltigheim",
+        "latitude": "48.6078",
+        "longitude": "7.7500",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "34129"
+    },
+    {
+        "name": "Les Mureaux",
+        "latitude": "48.9875",
+        "longitude": "1.9172",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "33977"
+    },
+    {
+        "name": "Trappes",
+        "latitude": "48.7775",
+        "longitude": "2.0025",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "33717"
+    },
+    {
+        "name": "Nogent-sur-Marne",
+        "latitude": "48.8375",
+        "longitude": "2.4833",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "33472"
+    },
+    {
+        "name": "Houilles",
+        "latitude": "48.9261",
+        "longitude": "2.1892",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "33449"
+    },
+    {
+        "name": "Montluçon",
+        "latitude": "46.3408",
+        "longitude": "2.6033",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "33342"
+    },
+    {
+        "name": "Romainville",
+        "latitude": "48.8840",
+        "longitude": "2.4350",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "33266"
+    },
+    {
+        "name": "Nevers",
+        "latitude": "46.9933",
+        "longitude": "3.1572",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "32830"
+    },
+    {
+        "name": "Lens",
+        "latitude": "50.4322",
+        "longitude": "2.8333",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "32618"
+    },
+    {
+        "name": "Agen",
+        "latitude": "44.2049",
+        "longitude": "0.6212",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "32485"
+    },
+    {
+        "name": "Pierrefitte-sur-Seine",
+        "latitude": "48.9656",
+        "longitude": "2.3614",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "32379"
+    },
+    {
+        "name": "Bezons",
+        "latitude": "48.9261",
+        "longitude": "2.2178",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "32017"
+    },
+    {
+        "name": "Aix-les-Bains",
+        "latitude": "45.6886",
+        "longitude": "5.9150",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "31874"
+    },
+    {
+        "name": "Montigny-le-Bretonneux",
+        "latitude": "48.7711",
+        "longitude": "2.0333",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "31777"
+    },
+    {
+        "name": "Cambrai",
+        "latitude": "50.1767",
+        "longitude": "3.2356",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "31425"
+    },
+    {
+        "name": "L’Haÿ-les-Roses",
+        "latitude": "48.7800",
+        "longitude": "2.3374",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "31392"
+    },
+    {
+        "name": "Plaisir",
+        "latitude": "48.8183",
+        "longitude": "1.9472",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "31375"
+    },
+    {
+        "name": "Pontoise",
+        "latitude": "49.0516",
+        "longitude": "2.1017",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "31327"
+    },
+    {
+        "name": "Rillieux-la-Pape",
+        "latitude": "45.8214",
+        "longitude": "4.8983",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "31247"
+    },
+    {
+        "name": "Thiais",
+        "latitude": "48.7650",
+        "longitude": "2.3923",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "31097"
+    },
+    {
+        "name": "Vigneux-sur-Seine",
+        "latitude": "48.7001",
+        "longitude": "2.4170",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "31050"
+    },
+    {
+        "name": "Viry-Châtillon",
+        "latitude": "48.6713",
+        "longitude": "2.3750",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "31045"
+    },
+    {
+        "name": "Saint-Laurent-du-Var",
+        "latitude": "43.6680",
+        "longitude": "7.1880",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "30941"
+    },
+    {
+        "name": "Bègles",
+        "latitude": "44.8086",
+        "longitude": "-0.5478",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "30813"
+    },
+    {
+        "name": "Goussainville",
+        "latitude": "49.0325",
+        "longitude": "2.4747",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "30693"
+    },
+    {
+        "name": "Villiers-sur-Marne",
+        "latitude": "48.8275",
+        "longitude": "2.5447",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "30669"
+    },
+    {
+        "name": "Cachan",
+        "latitude": "48.7919",
+        "longitude": "2.3319",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "30592"
+    },
+    {
+        "name": "Savigny-le-Temple",
+        "latitude": "48.5841",
+        "longitude": "2.5832",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "30510"
+    },
+    {
+        "name": "Menton",
+        "latitude": "43.7750",
+        "longitude": "7.5000",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "30412"
+    },
+    {
+        "name": "Villemomble",
+        "latitude": "48.8833",
+        "longitude": "2.5000",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "30332"
+    },
+    {
+        "name": "Malakoff",
+        "latitude": "48.8172",
+        "longitude": "2.2992",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "30292"
+    },
+    {
+        "name": "Liévin",
+        "latitude": "50.4228",
+        "longitude": "2.7786",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "30149"
+    },
+    {
+        "name": "La Garenne-Colombes",
+        "latitude": "48.9056",
+        "longitude": "2.2445",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29932"
+    },
+    {
+        "name": "Ris-Orangis",
+        "latitude": "48.6537",
+        "longitude": "2.4161",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29825"
+    },
+    {
+        "name": "Bois-Colombes",
+        "latitude": "48.9175",
+        "longitude": "2.2683",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29765"
+    },
+    {
+        "name": "Clichy-sous-Bois",
+        "latitude": "48.9102",
+        "longitude": "2.5532",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29735"
+    },
+    {
+        "name": "Décines-Charpieu",
+        "latitude": "45.7694",
+        "longitude": "4.9594",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "29731"
+    },
+    {
+        "name": "Saint-Cloud",
+        "latitude": "48.8400",
+        "longitude": "2.2200",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29727"
+    },
+    {
+        "name": "Chatou",
+        "latitude": "48.8897",
+        "longitude": "2.1573",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29649"
+    },
+    {
+        "name": "Vandœuvre-lès-Nancy",
+        "latitude": "48.6567",
+        "longitude": "6.1683",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "29537"
+    },
+    {
+        "name": "Périgueux",
+        "latitude": "45.1929",
+        "longitude": "0.7217",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "29516"
+    },
+    {
+        "name": "Charenton-le-Pont",
+        "latitude": "48.8265",
+        "longitude": "2.4050",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29445"
+    },
+    {
+        "name": "Tournefeuille",
+        "latitude": "43.5853",
+        "longitude": "1.3442",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "29439"
+    },
+    {
+        "name": "Guyancourt",
+        "latitude": "48.7714",
+        "longitude": "2.0739",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29406"
+    },
+    {
+        "name": "Le Plessis-Robinson",
+        "latitude": "48.7811",
+        "longitude": "2.2633",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29228"
+    },
+    {
+        "name": "Draveil",
+        "latitude": "48.6852",
+        "longitude": "2.4080",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "29173"
+    },
+    {
+        "name": "Maubeuge",
+        "latitude": "50.2775",
+        "longitude": "3.9734",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "29066"
+    },
+    {
+        "name": "Ermont",
+        "latitude": "48.9922",
+        "longitude": "2.2603",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "28987"
+    },
+    {
+        "name": "Sotteville-lès-Rouen",
+        "latitude": "49.4092",
+        "longitude": "1.0900",
+        "country": "France",
+        "region": "Normandie",
+        "population": "28965"
+    },
+    {
+        "name": "Villiers-le-Bel",
+        "latitude": "49.0094",
+        "longitude": "2.3911",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "28836"
+    },
+    {
+        "name": "Fresnes",
+        "latitude": "48.7550",
+        "longitude": "2.3221",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "28780"
+    },
+    {
+        "name": "Soissons",
+        "latitude": "49.3817",
+        "longitude": "3.3236",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "28705"
+    },
+    {
+        "name": "Yerres",
+        "latitude": "48.7171",
+        "longitude": "2.4881",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "28699"
+    },
+    {
+        "name": "Saint-Étienne-du-Rouvray",
+        "latitude": "49.3786",
+        "longitude": "1.1050",
+        "country": "France",
+        "region": "Normandie",
+        "population": "28508"
+    },
+    {
+        "name": "Dieppe",
+        "latitude": "49.9250",
+        "longitude": "1.0750",
+        "country": "France",
+        "region": "Normandie",
+        "population": "28358"
+    },
+    {
+        "name": "Saint-Sébastien-sur-Loire",
+        "latitude": "47.2081",
+        "longitude": "-1.5014",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "28283"
+    },
+    {
+        "name": "Vallauris",
+        "latitude": "43.5805",
+        "longitude": "7.0538",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "28025"
+    },
+    {
+        "name": "Vanves",
+        "latitude": "48.8208",
+        "longitude": "2.2897",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "28014"
+    },
+    {
+        "name": "Lomme",
+        "latitude": "50.6358",
+        "longitude": "3.0142",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "28006"
+    },
+    {
+        "name": "Limeil-Brévannes",
+        "latitude": "48.7464",
+        "longitude": "2.4883",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "27999"
+    },
+    {
+        "name": "Montfermeil",
+        "latitude": "48.9000",
+        "longitude": "2.5667",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "27980"
+    },
+    {
+        "name": "Le Chesnay",
+        "latitude": "48.8211",
+        "longitude": "2.1311",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "27683"
+    },
+    {
+        "name": "Sucy-en-Brie",
+        "latitude": "48.7697",
+        "longitude": "2.5228",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "27622"
+    },
+    {
+        "name": "Grigny",
+        "latitude": "48.6562",
+        "longitude": "2.3849",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "27257"
+    },
+    {
+        "name": "Lambersart",
+        "latitude": "50.6500",
+        "longitude": "3.0250",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "27121"
+    },
+    {
+        "name": "Brétigny-sur-Orge",
+        "latitude": "48.6114",
+        "longitude": "2.3059",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "27106"
+    },
+    {
+        "name": "Taverny",
+        "latitude": "49.0264",
+        "longitude": "2.2275",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "27025"
+    },
+    {
+        "name": "Oullins",
+        "latitude": "45.7142",
+        "longitude": "4.8075",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "26994"
+    },
+    {
+        "name": "Villeparisis",
+        "latitude": "48.9503",
+        "longitude": "2.6025",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "26822"
+    },
+    {
+        "name": "Cenon",
+        "latitude": "44.8578",
+        "longitude": "-0.5317",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "26778"
+    },
+    {
+        "name": "Sannois",
+        "latitude": "48.9722",
+        "longitude": "2.2578",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "26768"
+    },
+    {
+        "name": "Cormeilles-en-Parisis",
+        "latitude": "48.9739",
+        "longitude": "2.2014",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "26741"
+    },
+    {
+        "name": "Bussy-Saint-Georges",
+        "latitude": "48.8422",
+        "longitude": "2.6983",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "26571"
+    },
+    {
+        "name": "Blagnac",
+        "latitude": "43.6364",
+        "longitude": "1.3906",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "26466"
+    },
+    {
+        "name": "Élancourt",
+        "latitude": "48.7847",
+        "longitude": "1.9589",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "26082"
+    },
+    {
+        "name": "Le Grand-Quevilly",
+        "latitude": "49.4072",
+        "longitude": "1.0531",
+        "country": "France",
+        "region": "Normandie",
+        "population": "25975"
+    },
+    {
+        "name": "La Garde",
+        "latitude": "43.1256",
+        "longitude": "6.0108",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "25912"
+    },
+    {
+        "name": "Gradignan",
+        "latitude": "44.7725",
+        "longitude": "-0.6156",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "25835"
+    },
+    {
+        "name": "Vichy",
+        "latitude": "46.1278",
+        "longitude": "3.4267",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "25789"
+    },
+    {
+        "name": "Biarritz",
+        "latitude": "43.4800",
+        "longitude": "-1.5600",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "25764"
+    },
+    {
+        "name": "Champs-Sur-Marne",
+        "latitude": "48.8529",
+        "longitude": "2.6027",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "25695"
+    },
+    {
+        "name": "Armentières",
+        "latitude": "50.6881",
+        "longitude": "2.8811",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "25581"
+    },
+    {
+        "name": "Montbéliard",
+        "latitude": "47.5100",
+        "longitude": "6.8000",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "25573"
+    },
+    {
+        "name": "Alençon",
+        "latitude": "48.4306",
+        "longitude": "0.0931",
+        "country": "France",
+        "region": "Normandie",
+        "population": "25555"
+    },
+    {
+        "name": "Brunoy",
+        "latitude": "48.6979",
+        "longitude": "2.5044",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "25423"
+    },
+    {
+        "name": "Eaubonne",
+        "latitude": "48.9922",
+        "longitude": "2.2806",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "25373"
+    },
+    {
+        "name": "Villeneuve-la-Garenne",
+        "latitude": "48.9372",
+        "longitude": "2.3278",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "25371"
+    },
+    {
+        "name": "Cherbourg",
+        "latitude": "49.6300",
+        "longitude": "-1.6200",
+        "country": "France",
+        "region": "Normandie",
+        "population": "25370"
+    },
+    {
+        "name": "Saint-Ouen-l’Aumône",
+        "latitude": "49.0447",
+        "longitude": "2.1111",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "25023"
+    },
+    {
+        "name": "Béthune",
+        "latitude": "50.5303",
+        "longitude": "2.6408",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "24992"
+    },
+    {
+        "name": "Castelnau-le-Lez",
+        "latitude": "43.6369",
+        "longitude": "3.9019",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "24888"
+    },
+    {
+        "name": "Fontenay-aux-Roses",
+        "latitude": "48.7893",
+        "longitude": "2.2888",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "24772"
+    },
+    {
+        "name": "Orly",
+        "latitude": "48.7439",
+        "longitude": "2.3928",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "24482"
+    },
+    {
+        "name": "Le Kremlin-Bicêtre",
+        "latitude": "48.8100",
+        "longitude": "2.3581",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "24380"
+    },
+    {
+        "name": "Eysines",
+        "latitude": "44.8853",
+        "longitude": "-0.6500",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "24374"
+    },
+    {
+        "name": "Le Bouscat",
+        "latitude": "44.8651",
+        "longitude": "-0.5996",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "24339"
+    },
+    {
+        "name": "Rodez",
+        "latitude": "44.3506",
+        "longitude": "2.5750",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "24207"
+    },
+    {
+        "name": "Les Pavillons-sous-Bois",
+        "latitude": "48.9000",
+        "longitude": "2.5000",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "24165"
+    },
+    {
+        "name": "La Valette-du-Var",
+        "latitude": "43.1383",
+        "longitude": "5.9831",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "23955"
+    },
+    {
+        "name": "Montgeron",
+        "latitude": "48.7039",
+        "longitude": "2.4605",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "23800"
+    },
+    {
+        "name": "Les Lilas",
+        "latitude": "48.8800",
+        "longitude": "2.4200",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "23469"
+    },
+    {
+        "name": "Lormont",
+        "latitude": "44.8792",
+        "longitude": "-0.5217",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "23291"
+    },
+    {
+        "name": "Maisons-Laffitte",
+        "latitude": "48.9469",
+        "longitude": "2.1456",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "23080"
+    },
+    {
+        "name": "Roissy-en-Brie",
+        "latitude": "48.7906",
+        "longitude": "2.6519",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "23061"
+    },
+    {
+        "name": "Loos",
+        "latitude": "50.6128",
+        "longitude": "3.0144",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "23013"
+    },
+    {
+        "name": "Fontaine",
+        "latitude": "45.1939",
+        "longitude": "5.6856",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "22891"
+    },
+    {
+        "name": "Dammarie-lè-Lys",
+        "latitude": "48.5177",
+        "longitude": "2.6402",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "22845"
+    },
+    {
+        "name": "Vélizy-Villacoublay",
+        "latitude": "48.7834",
+        "longitude": "2.1834",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "22713"
+    },
+    {
+        "name": "Tassin-la-Demi-Lune",
+        "latitude": "45.7640",
+        "longitude": "4.7800",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "22676"
+    },
+    {
+        "name": "Sèvres",
+        "latitude": "48.8239",
+        "longitude": "2.2117",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "22618"
+    },
+    {
+        "name": "Montigny-lès-Cormeilles",
+        "latitude": "48.9944",
+        "longitude": "2.1958",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "22603"
+    },
+    {
+        "name": "Deuil-la-Barre",
+        "latitude": "48.9767",
+        "longitude": "2.3272",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "22510"
+    },
+    {
+        "name": "La Madeleine",
+        "latitude": "50.6558",
+        "longitude": "3.0710",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "22488"
+    },
+    {
+        "name": "Torcy",
+        "latitude": "48.8502",
+        "longitude": "2.6508",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "22444"
+    },
+    {
+        "name": "Montereau-faut-Yonne",
+        "latitude": "48.3853",
+        "longitude": "2.9508",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "22259"
+    },
+    {
+        "name": "Combs-la-Ville",
+        "latitude": "48.6700",
+        "longitude": "2.5600",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "22240"
+    },
+    {
+        "name": "Hérouville-Saint-Clair",
+        "latitude": "49.2044",
+        "longitude": "-0.3253",
+        "country": "France",
+        "region": "Normandie",
+        "population": "22227"
+    },
+    {
+        "name": "Montmorency",
+        "latitude": "48.9906",
+        "longitude": "2.3228",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "21870"
+    },
+    {
+        "name": "Sainte-Foy-lès-Lyon",
+        "latitude": "45.7336",
+        "longitude": "4.8025",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "21858"
+    },
+    {
+        "name": "Montigny-lès-Metz",
+        "latitude": "49.1006",
+        "longitude": "6.1539",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "21854"
+    },
+    {
+        "name": "Le Petit-Quevilly",
+        "latitude": "49.4311",
+        "longitude": "1.0539",
+        "country": "France",
+        "region": "Normandie",
+        "population": "21782"
+    },
+    {
+        "name": "Saint-Jean-de-Braye",
+        "latitude": "47.9128",
+        "longitude": "1.9719",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "21700"
+    },
+    {
+        "name": "Arcueil",
+        "latitude": "48.8075",
+        "longitude": "2.3361",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "21557"
+    },
+    {
+        "name": "Mons-en-Baroeul",
+        "latitude": "50.6369",
+        "longitude": "3.1103",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "21467"
+    },
+    {
+        "name": "Fleury-les-Aubrais",
+        "latitude": "47.9312",
+        "longitude": "1.9210",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "21438"
+    },
+    {
+        "name": "Saint-Michel-sur-Orge",
+        "latitude": "48.6303",
+        "longitude": "2.3025",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "21437"
+    },
+    {
+        "name": "Neuilly-Plaisance",
+        "latitude": "48.8619",
+        "longitude": "2.5064",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "21415"
+    },
+    {
+        "name": "Nogent-sur-Oise",
+        "latitude": "49.2756",
+        "longitude": "2.4683",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "21382"
+    },
+    {
+        "name": "Mantes-la-Ville",
+        "latitude": "48.9750",
+        "longitude": "1.7117",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "21376"
+    },
+    {
+        "name": "Achères",
+        "latitude": "48.9602",
+        "longitude": "2.0684",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "21368"
+    },
+    {
+        "name": "Saint-Mandé",
+        "latitude": "48.8422",
+        "longitude": "2.4186",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "21195"
+    },
+    {
+        "name": "Villeneuve-le-Roi",
+        "latitude": "48.7333",
+        "longitude": "2.4167",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "21129"
+    },
+    {
+        "name": "Saint-Cyr-l’École",
+        "latitude": "48.8008",
+        "longitude": "2.0633",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20971"
+    },
+    {
+        "name": "Saint-Genis-Laval",
+        "latitude": "45.6953",
+        "longitude": "4.7931",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "20929"
+    },
+    {
+        "name": "Saint-Gratien",
+        "latitude": "48.9719",
+        "longitude": "2.2828",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20866"
+    },
+    {
+        "name": "Wasquehal",
+        "latitude": "50.6694",
+        "longitude": "3.1308",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "20836"
+    },
+    {
+        "name": "Halluin",
+        "latitude": "50.7836",
+        "longitude": "3.1256",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "20829"
+    },
+    {
+        "name": "Bourg-la-Reine",
+        "latitude": "48.7796",
+        "longitude": "2.3151",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20810"
+    },
+    {
+        "name": "Morsang-sur-Orge",
+        "latitude": "48.6618",
+        "longitude": "2.3461",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20785"
+    },
+    {
+        "name": "Croix",
+        "latitude": "50.6781",
+        "longitude": "3.1508",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "20778"
+    },
+    {
+        "name": "Coudekerque-Branche",
+        "latitude": "51.0253",
+        "longitude": "2.3917",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "20765"
+    },
+    {
+        "name": "Fougères",
+        "latitude": "48.3525",
+        "longitude": "-1.1986",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "20653"
+    },
+    {
+        "name": "Denain",
+        "latitude": "50.3294",
+        "longitude": "3.3958",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "20640"
+    },
+    {
+        "name": "Longjumeau",
+        "latitude": "48.6943",
+        "longitude": "2.2958",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20620"
+    },
+    {
+        "name": "Sceaux",
+        "latitude": "48.7786",
+        "longitude": "2.2906",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20488"
+    },
+    {
+        "name": "Saint-Pol-sur-Mer",
+        "latitude": "51.0314",
+        "longitude": "2.3439",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "20479"
+    },
+    {
+        "name": "La Celle-Saint-Cloud",
+        "latitude": "48.8411",
+        "longitude": "2.1344",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20476"
+    },
+    {
+        "name": "Joinville-le-Pont",
+        "latitude": "48.8214",
+        "longitude": "2.4728",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20413"
+    },
+    {
+        "name": "Cugnaux",
+        "latitude": "43.5386",
+        "longitude": "1.3444",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "20341"
+    },
+    {
+        "name": "Chevilly-Larue",
+        "latitude": "48.7663",
+        "longitude": "2.3533",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20326"
+    },
+    {
+        "name": "Lingolsheim",
+        "latitude": "48.5600",
+        "longitude": "7.6800",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "20266"
+    },
+    {
+        "name": "Le Plessis-Trévise",
+        "latitude": "48.8111",
+        "longitude": "2.5717",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20218"
+    },
+    {
+        "name": "Le Mée-sur-Seine",
+        "latitude": "48.5333",
+        "longitude": "2.6289",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "20207"
+    },
+    {
+        "name": "Mont-Saint-Aignan",
+        "latitude": "49.4630",
+        "longitude": "1.0883",
+        "country": "France",
+        "region": "Normandie",
+        "population": "20066"
+    },
+    {
+        "name": "Chaville",
+        "latitude": "48.8086",
+        "longitude": "2.1886",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "19991"
+    },
+    {
+        "name": "Chilly-Mazarin",
+        "latitude": "48.7025",
+        "longitude": "2.3125",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "19938"
+    },
+    {
+        "name": "Lisieux",
+        "latitude": "49.1500",
+        "longitude": "0.2300",
+        "country": "France",
+        "region": "Normandie",
+        "population": "19807"
+    },
+    {
+        "name": "Ronchin",
+        "latitude": "50.6053",
+        "longitude": "3.0886",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "19437"
+    },
+    {
+        "name": "Saint-Fons",
+        "latitude": "45.7086",
+        "longitude": "4.8533",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "19360"
+    },
+    {
+        "name": "Moulins",
+        "latitude": "46.5653",
+        "longitude": "3.3333",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "19343"
+    },
+    {
+        "name": "Villefontaine",
+        "latitude": "45.6142",
+        "longitude": "5.1494",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "19083"
+    },
+    {
+        "name": "Gentilly",
+        "latitude": "48.8133",
+        "longitude": "2.3444",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "19048"
+    },
+    {
+        "name": "Bonneuil-sur-Marne",
+        "latitude": "48.7742",
+        "longitude": "2.4875",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "18750"
+    },
+    {
+        "name": "Hem",
+        "latitude": "50.6558",
+        "longitude": "3.1886",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "18713"
+    },
+    {
+        "name": "Maurepas",
+        "latitude": "48.7600",
+        "longitude": "1.9500",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "18611"
+    },
+    {
+        "name": "Meylan",
+        "latitude": "45.2092",
+        "longitude": "5.7800",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "18573"
+    },
+    {
+        "name": "Éragny",
+        "latitude": "49.0181",
+        "longitude": "2.0922",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "18468"
+    },
+    {
+        "name": "Hellemmes-Lille",
+        "latitude": "50.6167",
+        "longitude": "3.1167",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "18437"
+    },
+    {
+        "name": "Juvisy-sur-Orge",
+        "latitude": "48.6889",
+        "longitude": "2.3783",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "18424"
+    },
+    {
+        "name": "Chennevières-sur-Marne",
+        "latitude": "48.7983",
+        "longitude": "2.5339",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "18367"
+    },
+    {
+        "name": "Écully",
+        "latitude": "45.7753",
+        "longitude": "4.7783",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "18361"
+    },
+    {
+        "name": "Cran-Gévrier",
+        "latitude": "45.9097",
+        "longitude": "6.1107",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "18330"
+    },
+    {
+        "name": "Carrières-sous-Poissy",
+        "latitude": "48.9486",
+        "longitude": "2.0394",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "18316"
+    },
+    {
+        "name": "Rosendaël",
+        "latitude": "51.0413",
+        "longitude": "2.4037",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "18272"
+    },
+    {
+        "name": "Fâches-Thumesnil",
+        "latitude": "50.5994",
+        "longitude": "3.0744",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "18110"
+    },
+    {
+        "name": "Soisy-sous-Montmorency",
+        "latitude": "48.9886",
+        "longitude": "2.3006",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "18008"
+    },
+    {
+        "name": "Bischheim",
+        "latitude": "48.6144",
+        "longitude": "7.7528",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "17939"
+    },
+    {
+        "name": "Garches",
+        "latitude": "48.8461",
+        "longitude": "2.1889",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "17898"
+    },
+    {
+        "name": "Hendaye",
+        "latitude": "43.3600",
+        "longitude": "-1.7700",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "17796"
+    },
+    {
+        "name": "Floirac",
+        "latitude": "44.8375",
+        "longitude": "-0.5247",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "17749"
+    },
+    {
+        "name": "Limay",
+        "latitude": "48.9942",
+        "longitude": "1.7367",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "17626"
+    },
+    {
+        "name": "Boissy-Saint-Léger",
+        "latitude": "48.7511",
+        "longitude": "2.5106",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "17570"
+    },
+    {
+        "name": "Le Pontet",
+        "latitude": "43.9650",
+        "longitude": "4.8606",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "17551"
+    },
+    {
+        "name": "Chamalières",
+        "latitude": "45.7744",
+        "longitude": "3.0678",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "17454"
+    },
+    {
+        "name": "Bry-sur-Marne",
+        "latitude": "48.8411",
+        "longitude": "2.5222",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "17400"
+    },
+    {
+        "name": "Les Clayes-sous-Bois",
+        "latitude": "48.8167",
+        "longitude": "1.9833",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "17237"
+    },
+    {
+        "name": "L’Isle-d’Abeau",
+        "latitude": "45.6233",
+        "longitude": "5.2305",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "17206"
+    },
+    {
+        "name": "Jouy-le-Moutier",
+        "latitude": "49.0117",
+        "longitude": "2.0397",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "17175"
+    },
+    {
+        "name": "Cluses",
+        "latitude": "46.0611",
+        "longitude": "6.5794",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "17164"
+    },
+    {
+        "name": "Firminy",
+        "latitude": "45.3889",
+        "longitude": "4.2878",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "17137"
+    },
+    {
+        "name": "Lons-le-Saunier",
+        "latitude": "46.6753",
+        "longitude": "5.5544",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "17043"
+    },
+    {
+        "name": "Saint-Égrève",
+        "latitude": "45.2325",
+        "longitude": "5.6836",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "16995"
+    },
+    {
+        "name": "Viroflay",
+        "latitude": "48.8000",
+        "longitude": "2.1670",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "16960"
+    },
+    {
+        "name": "Octeville",
+        "latitude": "49.6269",
+        "longitude": "-1.6431",
+        "country": "France",
+        "region": "Normandie",
+        "population": "16948"
+    },
+    {
+        "name": "Le Pré-Saint-Gervais",
+        "latitude": "48.8833",
+        "longitude": "2.4000",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "16865"
+    },
+    {
+        "name": "Saint-Jean-de-la-Ruelle",
+        "latitude": "47.9139",
+        "longitude": "1.8745",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "16594"
+    },
+    {
+        "name": "Marly-le-Roi",
+        "latitude": "48.8675",
+        "longitude": "2.0947",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "16531"
+    },
+    {
+        "name": "Domont",
+        "latitude": "49.0283",
+        "longitude": "2.3275",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "16078"
+    },
+    {
+        "name": "Vauréal",
+        "latitude": "49.0353",
+        "longitude": "2.0328",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "16034"
+    },
+    {
+        "name": "Orsay",
+        "latitude": "48.6993",
+        "longitude": "2.1875",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "16007"
+    },
+    {
+        "name": "Saint-Leu-la-Forêt",
+        "latitude": "49.0175",
+        "longitude": "2.2472",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "15979"
+    },
+    {
+        "name": "Verneuil-sur-Seine",
+        "latitude": "48.9806",
+        "longitude": "1.9747",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "15914"
+    },
+    {
+        "name": "Petite-Synthe",
+        "latitude": "51.0194",
+        "longitude": "2.3467",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "15911"
+    },
+    {
+        "name": "Saint-Julien-en-Genevois",
+        "latitude": "46.1436",
+        "longitude": "6.0811",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "15840"
+    },
+    {
+        "name": "Le Pecq",
+        "latitude": "48.8969",
+        "longitude": "2.1069",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "15832"
+    },
+    {
+        "name": "Le Vésinet",
+        "latitude": "48.8923",
+        "longitude": "2.1331",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "15646"
+    },
+    {
+        "name": "Lucé",
+        "latitude": "48.4389",
+        "longitude": "1.4658",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "15602"
+    },
+    {
+        "name": "Wattignies",
+        "latitude": "50.5856",
+        "longitude": "3.0439",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "15531"
+    },
+    {
+        "name": "Noisiel",
+        "latitude": "48.8547",
+        "longitude": "2.6289",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "15461"
+    },
+    {
+        "name": "Bois-d’Arcy",
+        "latitude": "48.8000",
+        "longitude": "2.0300",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "15435"
+    },
+    {
+        "name": "Rive-de-Gier",
+        "latitude": "45.5303",
+        "longitude": "4.6178",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "15214"
+    },
+    {
+        "name": "Saint-Brice-sous-Forêt",
+        "latitude": "48.9992",
+        "longitude": "2.3578",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "15209"
+    },
+    {
+        "name": "Francheville",
+        "latitude": "45.7364",
+        "longitude": "4.7636",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "15204"
+    },
+    {
+        "name": "Longwy",
+        "latitude": "49.5200",
+        "longitude": "5.7606",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "15191"
+    },
+    {
+        "name": "Vesoul",
+        "latitude": "47.6231",
+        "longitude": "6.1558",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "15130"
+    },
+    {
+        "name": "Montargis",
+        "latitude": "47.9978",
+        "longitude": "2.7333",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "15061"
+    },
+    {
+        "name": "Carrières-sur-Seine",
+        "latitude": "48.9108",
+        "longitude": "2.2889",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "15038"
+    },
+    {
+        "name": "Ramonville-Saint-Agne",
+        "latitude": "43.5434",
+        "longitude": "1.4787",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "14949"
+    },
+    {
+        "name": "Castanet-Tolosan",
+        "latitude": "43.5164",
+        "longitude": "1.4989",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "14903"
+    },
+    {
+        "name": "Le Raincy",
+        "latitude": "48.9000",
+        "longitude": "2.5167",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "14877"
+    },
+    {
+        "name": "Le Bourget",
+        "latitude": "48.9353",
+        "longitude": "2.4256",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "14832"
+    },
+    {
+        "name": "Illzach",
+        "latitude": "47.7831",
+        "longitude": "7.3486",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "14829"
+    },
+    {
+        "name": "Montmagny",
+        "latitude": "48.9744",
+        "longitude": "2.3467",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "14775"
+    },
+    {
+        "name": "Villers-lès-Nancy",
+        "latitude": "48.6731",
+        "longitude": "6.1547",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "14761"
+    },
+    {
+        "name": "Haubourdin",
+        "latitude": "50.6097",
+        "longitude": "2.9878",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "14757"
+    },
+    {
+        "name": "Dinan",
+        "latitude": "48.4564",
+        "longitude": "-2.0489",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "14675"
+    },
+    {
+        "name": "Lognes",
+        "latitude": "48.8360",
+        "longitude": "2.6278",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "14650"
+    },
+    {
+        "name": "Saint-Maurice",
+        "latitude": "48.8156",
+        "longitude": "2.4592",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "14603"
+    },
+    {
+        "name": "Verrières-le-Buisson",
+        "latitude": "48.7464",
+        "longitude": "2.2674",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "14597"
+    },
+    {
+        "name": "Arnouville-lès-Gonesse",
+        "latitude": "48.9878",
+        "longitude": "2.4175",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "14585"
+    },
+    {
+        "name": "Saint-Genis-Pouilly",
+        "latitude": "46.2437",
+        "longitude": "6.0250",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "14558"
+    },
+    {
+        "name": "Les Sables-d’Olonne",
+        "latitude": "46.4972",
+        "longitude": "-1.7833",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "14545"
+    },
+    {
+        "name": "Montesson",
+        "latitude": "48.9085",
+        "longitude": "2.1496",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "14511"
+    },
+    {
+        "name": "Valenton",
+        "latitude": "48.7450",
+        "longitude": "2.4672",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "14482"
+    },
+    {
+        "name": "Chenôve",
+        "latitude": "47.2917",
+        "longitude": "5.0081",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "14445"
+    },
+    {
+        "name": "Bois-Guillaume",
+        "latitude": "49.4614",
+        "longitude": "1.1092",
+        "country": "France",
+        "region": "Normandie",
+        "population": "14262"
+    },
+    {
+        "name": "Auray",
+        "latitude": "47.6686",
+        "longitude": "-2.9814",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "14222"
+    },
+    {
+        "name": "Persan",
+        "latitude": "49.1542",
+        "longitude": "2.2719",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "13996"
+    },
+    {
+        "name": "Fleury-Mérogis",
+        "latitude": "48.6300",
+        "longitude": "2.3620",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "13983"
+    },
+    {
+        "name": "Audincourt",
+        "latitude": "47.4836",
+        "longitude": "6.8403",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "13944"
+    },
+    {
+        "name": "Montévrain",
+        "latitude": "48.8750",
+        "longitude": "2.7456",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "13934"
+    },
+    {
+        "name": "Billère",
+        "latitude": "43.3031",
+        "longitude": "-0.3906",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "13866"
+    },
+    {
+        "name": "Lys-lès-Lannoy",
+        "latitude": "50.6722",
+        "longitude": "3.2153",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "13793"
+    },
+    {
+        "name": "Avon",
+        "latitude": "48.4097",
+        "longitude": "2.7161",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "13660"
+    },
+    {
+        "name": "Vaires-sur-Marne",
+        "latitude": "48.8667",
+        "longitude": "2.6500",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "13518"
+    },
+    {
+        "name": "Courcouronnes",
+        "latitude": "48.6239",
+        "longitude": "2.4294",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "13490"
+    },
+    {
+        "name": "Fontenay-le-Fleury",
+        "latitude": "48.8144",
+        "longitude": "2.0494",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "13455"
+    },
+    {
+        "name": "Anzin",
+        "latitude": "50.3722",
+        "longitude": "3.5050",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "13422"
+    },
+    {
+        "name": "Ostwald",
+        "latitude": "48.5425",
+        "longitude": "7.7103",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "13310"
+    },
+    {
+        "name": "Outreau",
+        "latitude": "50.7044",
+        "longitude": "1.5947",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "13270"
+    },
+    {
+        "name": "Andrésy",
+        "latitude": "48.9817",
+        "longitude": "2.0592",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "13230"
+    },
+    {
+        "name": "Morangis",
+        "latitude": "48.7055",
+        "longitude": "2.3326",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "13211"
+    },
+    {
+        "name": "Kingersheim",
+        "latitude": "47.7922",
+        "longitude": "7.3386",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "13178"
+    },
+    {
+        "name": "Mouvaux",
+        "latitude": "50.7039",
+        "longitude": "3.1414",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "13173"
+    },
+    {
+        "name": "Saint-André",
+        "latitude": "50.6608",
+        "longitude": "3.0450",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "12942"
+    },
+    {
+        "name": "Saint-André-les-Vergers",
+        "latitude": "48.2806",
+        "longitude": "4.0547",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "12775"
+    },
+    {
+        "name": "Bayeux",
+        "latitude": "49.2794",
+        "longitude": "-0.7028",
+        "country": "France",
+        "region": "Normandie",
+        "population": "12775"
+    },
+    {
+        "name": "Beausoleil",
+        "latitude": "43.7425",
+        "longitude": "7.4244",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "12674"
+    },
+    {
+        "name": "L’Union",
+        "latitude": "43.6575",
+        "longitude": "1.4853",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "12358"
+    },
+    {
+        "name": "Bully-les-Mines",
+        "latitude": "50.4425",
+        "longitude": "2.7253",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "12221"
+    },
+    {
+        "name": "Riedisheim",
+        "latitude": "47.7489",
+        "longitude": "7.3675",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "12163"
+    },
+    {
+        "name": "Marly",
+        "latitude": "50.3490",
+        "longitude": "3.5450",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "12024"
+    },
+    {
+        "name": "Craponne",
+        "latitude": "45.7453",
+        "longitude": "4.7233",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "11903"
+    },
+    {
+        "name": "Talant",
+        "latitude": "47.3372",
+        "longitude": "5.0064",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "11894"
+    },
+    {
+        "name": "Épinay-sous-Sénart",
+        "latitude": "48.6948",
+        "longitude": "2.5147",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "11869"
+    },
+    {
+        "name": "Le Relecq-Kerhuon",
+        "latitude": "48.4092",
+        "longitude": "-4.3956",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "11791"
+    },
+    {
+        "name": "Villecresnes",
+        "latitude": "48.7214",
+        "longitude": "2.5342",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "11779"
+    },
+    {
+        "name": "Hœnheim",
+        "latitude": "48.6250",
+        "longitude": "7.7553",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "11469"
+    },
+    {
+        "name": "Vitry-le-François",
+        "latitude": "48.7256",
+        "longitude": "4.5853",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "11454"
+    },
+    {
+        "name": "Enghien-les-Bains",
+        "latitude": "48.9697",
+        "longitude": "2.3081",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "11440"
+    },
+    {
+        "name": "Méricourt",
+        "latitude": "50.4031",
+        "longitude": "2.8667",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "11431"
+    },
+    {
+        "name": "Yvetot",
+        "latitude": "49.6200",
+        "longitude": "0.7500",
+        "country": "France",
+        "region": "Normandie",
+        "population": "11385"
+    },
+    {
+        "name": "Dugny",
+        "latitude": "48.9500",
+        "longitude": "2.4167",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "11328"
+    },
+    {
+        "name": "Bruay-sur-l’Escaut",
+        "latitude": "50.3989",
+        "longitude": "3.5403",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "11309"
+    },
+    {
+        "name": "Saint-Germain-lès-Arpajon",
+        "latitude": "48.5946",
+        "longitude": "2.2558",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "11305"
+    },
+    {
+        "name": "Arpajon",
+        "latitude": "48.5901",
+        "longitude": "2.2476",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "11281"
+    },
+    {
+        "name": "Arcachon",
+        "latitude": "44.6500",
+        "longitude": "-1.1700",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "11259"
+    },
+    {
+        "name": "Saint-Jean",
+        "latitude": "43.6664",
+        "longitude": "1.5058",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "11243"
+    },
+    {
+        "name": "Marquette-lès-Lille",
+        "latitude": "50.6764",
+        "longitude": "3.0667",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "11213"
+    },
+    {
+        "name": "Cesson",
+        "latitude": "48.5633",
+        "longitude": "2.6053",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "11140"
+    },
+    {
+        "name": "Stiring-Wendel",
+        "latitude": "49.2000",
+        "longitude": "6.9300",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "11067"
+    },
+    {
+        "name": "Maromme",
+        "latitude": "49.4825",
+        "longitude": "1.0428",
+        "country": "France",
+        "region": "Normandie",
+        "population": "11024"
+    },
+    {
+        "name": "Ferney-Voltaire",
+        "latitude": "46.2558",
+        "longitude": "6.1081",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "10920"
+    },
+    {
+        "name": "Bondoufle",
+        "latitude": "48.6145",
+        "longitude": "2.3807",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10862"
+    },
+    {
+        "name": "Le Pont-de-Claix",
+        "latitude": "45.1289",
+        "longitude": "5.6989",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "10805"
+    },
+    {
+        "name": "Épinay-sur-Orge",
+        "latitude": "48.6726",
+        "longitude": "2.3239",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10760"
+    },
+    {
+        "name": "Déville-lès-Rouen",
+        "latitude": "49.4700",
+        "longitude": "1.0500",
+        "country": "France",
+        "region": "Normandie",
+        "population": "10745"
+    },
+    {
+        "name": "Chanteloup-les-Vignes",
+        "latitude": "48.9792",
+        "longitude": "2.0319",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10735"
+    },
+    {
+        "name": "Voisins-le-Bretonneux",
+        "latitude": "48.7592",
+        "longitude": "2.0517",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10721"
+    },
+    {
+        "name": "Ville-d’Avray",
+        "latitude": "48.8261",
+        "longitude": "2.1933",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10694"
+    },
+    {
+        "name": "Beaumont",
+        "latitude": "45.7525",
+        "longitude": "3.0836",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "10650"
+    },
+    {
+        "name": "Flers-lez-Lille",
+        "latitude": "50.6333",
+        "longitude": "3.1333",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "10561"
+    },
+    {
+        "name": "Tinqueux",
+        "latitude": "49.2509",
+        "longitude": "3.9918",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "10552"
+    },
+    {
+        "name": "Ormesson-sur-Marne",
+        "latitude": "48.7858",
+        "longitude": "2.5383",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10540"
+    },
+    {
+        "name": "Pierre-Bénite",
+        "latitude": "45.7036",
+        "longitude": "4.8242",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "10515"
+    },
+    {
+        "name": "Clermont",
+        "latitude": "49.3797",
+        "longitude": "2.4133",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "10475"
+    },
+    {
+        "name": "Thorigny-sur-Marne",
+        "latitude": "48.8788",
+        "longitude": "2.7075",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10405"
+    },
+    {
+        "name": "Croissy-sur-Seine",
+        "latitude": "48.8783",
+        "longitude": "2.1433",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10399"
+    },
+    {
+        "name": "Villeneuve-Tolosane",
+        "latitude": "43.5247",
+        "longitude": "1.3425",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "10369"
+    },
+    {
+        "name": "Avranches",
+        "latitude": "48.6850",
+        "longitude": "-1.3556",
+        "country": "France",
+        "region": "Normandie",
+        "population": "10240"
+    },
+    {
+        "name": "Pfastatt",
+        "latitude": "47.7697",
+        "longitude": "7.3025",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "10237"
+    },
+    {
+        "name": "Igny",
+        "latitude": "48.7421",
+        "longitude": "2.2261",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10213"
+    },
+    {
+        "name": "Oignies",
+        "latitude": "50.4700",
+        "longitude": "2.9944",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "10210"
+    },
+    {
+        "name": "Gaillard",
+        "latitude": "46.1858",
+        "longitude": "6.2083",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "10175"
+    },
+    {
+        "name": "Neuville-en-Ferrain",
+        "latitude": "50.7472",
+        "longitude": "3.1589",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "10160"
+    },
+    {
+        "name": "Caudebec-lès-Elbeuf",
+        "latitude": "49.2817",
+        "longitude": "1.0222",
+        "country": "France",
+        "region": "Normandie",
+        "population": "10135"
+    },
+    {
+        "name": "Saint-Max",
+        "latitude": "48.7017",
+        "longitude": "6.2072",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "10073"
+    },
+    {
+        "name": "Villerupt",
+        "latitude": "49.4697",
+        "longitude": "5.9286",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "10069"
+    },
+    {
+        "name": "Auchel",
+        "latitude": "50.5086",
+        "longitude": "2.4744",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "10062"
+    },
+    {
+        "name": "Vernouillet",
+        "latitude": "48.9728",
+        "longitude": "1.9842",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "10025"
+    },
+    {
+        "name": "Aniche",
+        "latitude": "50.3306",
+        "longitude": "3.2519",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "9997"
+    },
+    {
+        "name": "Eybens",
+        "latitude": "45.1494",
+        "longitude": "5.7508",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "9974"
+    },
+    {
+        "name": "Fosses",
+        "latitude": "49.0989",
+        "longitude": "2.5075",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9929"
+    },
+    {
+        "name": "Maxéville",
+        "latitude": "48.7122",
+        "longitude": "6.1639",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "9921"
+    },
+    {
+        "name": "Montigny-en-Gohelle",
+        "latitude": "50.4286",
+        "longitude": "2.9308",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "9870"
+    },
+    {
+        "name": "Grigny",
+        "latitude": "45.6092",
+        "longitude": "4.7906",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "9851"
+    },
+    {
+        "name": "Darnétal",
+        "latitude": "49.4453",
+        "longitude": "1.1519",
+        "country": "France",
+        "region": "Normandie",
+        "population": "9738"
+    },
+    {
+        "name": "Serris",
+        "latitude": "48.8456",
+        "longitude": "2.7878",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9706"
+    },
+    {
+        "name": "Sallaumines",
+        "latitude": "50.4203",
+        "longitude": "2.8631",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "9650"
+    },
+    {
+        "name": "Neuville-lès-Dieppe",
+        "latitude": "49.9267",
+        "longitude": "1.1014",
+        "country": "France",
+        "region": "Normandie",
+        "population": "9616"
+    },
+    {
+        "name": "Beaumont-sur-Oise",
+        "latitude": "49.1431",
+        "longitude": "2.2872",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9590"
+    },
+    {
+        "name": "Leers",
+        "latitude": "50.6825",
+        "longitude": "3.2447",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "9588"
+    },
+    {
+        "name": "Ézanville",
+        "latitude": "49.0286",
+        "longitude": "2.3617",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9573"
+    },
+    {
+        "name": "Pérols",
+        "latitude": "43.5658",
+        "longitude": "3.9511",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "9561"
+    },
+    {
+        "name": "Crosne",
+        "latitude": "48.7164",
+        "longitude": "2.4580",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9532"
+    },
+    {
+        "name": "Quincy-sous-Sénart",
+        "latitude": "48.6714",
+        "longitude": "2.5407",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9477"
+    },
+    {
+        "name": "Jarville-la-Malgrange",
+        "latitude": "48.6700",
+        "longitude": "6.2067",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "9374"
+    },
+    {
+        "name": "Aucamville",
+        "latitude": "43.6697",
+        "longitude": "1.4311",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "9349"
+    },
+    {
+        "name": "Hagondange",
+        "latitude": "49.2550",
+        "longitude": "6.1686",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "9321"
+    },
+    {
+        "name": "Le Crès",
+        "latitude": "43.6481",
+        "longitude": "3.9397",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "9295"
+    },
+    {
+        "name": "Bures-sur-Yvette",
+        "latitude": "48.6969",
+        "longitude": "2.1639",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9254"
+    },
+    {
+        "name": "Évian-les-Bains",
+        "latitude": "46.3833",
+        "longitude": "6.5833",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "9214"
+    },
+    {
+        "name": "Ville-la-Grand",
+        "latitude": "46.2031",
+        "longitude": "6.2475",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "9169"
+    },
+    {
+        "name": "Beauchamp",
+        "latitude": "49.0144",
+        "longitude": "2.1906",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9158"
+    },
+    {
+        "name": "Magny-le-Hongre",
+        "latitude": "48.8631",
+        "longitude": "2.8133",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9064"
+    },
+    {
+        "name": "Bougival",
+        "latitude": "48.8667",
+        "longitude": "2.1333",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "9031"
+    },
+    {
+        "name": "Tomblaine",
+        "latitude": "48.6833",
+        "longitude": "6.2167",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "9019"
+    },
+    {
+        "name": "Le Portel",
+        "latitude": "50.7075",
+        "longitude": "1.5744",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "8897"
+    },
+    {
+        "name": "Fontaine-lès-Dijon",
+        "latitude": "47.3433",
+        "longitude": "5.0206",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "8847"
+    },
+    {
+        "name": "Boucau",
+        "latitude": "43.5244",
+        "longitude": "-1.4853",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "8809"
+    },
+    {
+        "name": "Essey-lès-Nancy",
+        "latitude": "48.7067",
+        "longitude": "6.2231",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "8782"
+    },
+    {
+        "name": "Wingles",
+        "latitude": "50.4947",
+        "longitude": "2.8561",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "8742"
+    },
+    {
+        "name": "Montlhéry",
+        "latitude": "48.6392",
+        "longitude": "2.2722",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "8670"
+    },
+    {
+        "name": "L’Île-Saint-Denis",
+        "latitude": "48.9333",
+        "longitude": "2.3333",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "8664"
+    },
+    {
+        "name": "Vaucresson",
+        "latitude": "48.8392",
+        "longitude": "2.1578",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "8566"
+    },
+    {
+        "name": "La Salvetat-Saint-Gilles",
+        "latitude": "43.5769",
+        "longitude": "1.2722",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "8524"
+    },
+    {
+        "name": "Pérenchies",
+        "latitude": "50.6686",
+        "longitude": "2.9731",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "8519"
+    },
+    {
+        "name": "Saint-Aubin-lès-Elbeuf",
+        "latitude": "49.2991",
+        "longitude": "1.0127",
+        "country": "France",
+        "region": "Normandie",
+        "population": "8428"
+    },
+    {
+        "name": "Groslay",
+        "latitude": "48.9875",
+        "longitude": "2.3453",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "8416"
+    },
+    {
+        "name": "Le Plessis-Bouchard",
+        "latitude": "49.0033",
+        "longitude": "2.2375",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "8393"
+    },
+    {
+        "name": "Meythet",
+        "latitude": "45.9156",
+        "longitude": "6.0936",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "8327"
+    },
+    {
+        "name": "Terrenoire",
+        "latitude": "45.4343",
+        "longitude": "4.4377",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "8317"
+    },
+    {
+        "name": "Harfleur",
+        "latitude": "49.5072",
+        "longitude": "0.1989",
+        "country": "France",
+        "region": "Normandie",
+        "population": "8315"
+    },
+    {
+        "name": "Carbon-Blanc",
+        "latitude": "44.8958",
+        "longitude": "-0.5053",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "8300"
+    },
+    {
+        "name": "Courcelles-les-Lens",
+        "latitude": "50.4186",
+        "longitude": "3.0189",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "8213"
+    },
+    {
+        "name": "Bihorel",
+        "latitude": "49.4553",
+        "longitude": "1.1169",
+        "country": "France",
+        "region": "Normandie",
+        "population": "8199"
+    },
+    {
+        "name": "La Tour-du-Pin",
+        "latitude": "45.5650",
+        "longitude": "5.4444",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "8138"
+    },
+    {
+        "name": "Souffelweyersheim",
+        "latitude": "48.6356",
+        "longitude": "7.7417",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "8120"
+    },
+    {
+        "name": "Billy-Montigny",
+        "latitude": "50.4519",
+        "longitude": "2.9128",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "8117"
+    },
+    {
+        "name": "La Ville-du-Bois",
+        "latitude": "48.6611",
+        "longitude": "2.2687",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "8080"
+    },
+    {
+        "name": "Coulaines",
+        "latitude": "48.0267",
+        "longitude": "0.2042",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "8003"
+    },
+    {
+        "name": "Boussy-Saint-Antoine",
+        "latitude": "48.6886",
+        "longitude": "2.5298",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "7980"
+    },
+    {
+        "name": "Le Mesnil-Esnard",
+        "latitude": "49.4117",
+        "longitude": "1.1428",
+        "country": "France",
+        "region": "Normandie",
+        "population": "7980"
+    },
+    {
+        "name": "Talange",
+        "latitude": "49.2372",
+        "longitude": "6.1750",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "7938"
+    },
+    {
+        "name": "Cappelle-la-Grande",
+        "latitude": "50.9990",
+        "longitude": "2.3640",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "7899"
+    },
+    {
+        "name": "Beauzelle",
+        "latitude": "43.6664",
+        "longitude": "1.3783",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "7656"
+    },
+    {
+        "name": "Vaujours",
+        "latitude": "48.9333",
+        "longitude": "2.5667",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "7478"
+    },
+    {
+        "name": "Saint-Germain-lès-Corbeil",
+        "latitude": "48.6205",
+        "longitude": "2.4879",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "7472"
+    },
+    {
+        "name": "Terville",
+        "latitude": "49.3453",
+        "longitude": "6.1347",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "7456"
+    },
+    {
+        "name": "Waziers",
+        "latitude": "50.3870",
+        "longitude": "3.1130",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "7354"
+    },
+    {
+        "name": "Huningue",
+        "latitude": "47.5919",
+        "longitude": "7.5844",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "7339"
+    },
+    {
+        "name": "Villemoisson-sur-Orge",
+        "latitude": "48.6618",
+        "longitude": "2.3298",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "7120"
+    },
+    {
+        "name": "Sainte-Adresse",
+        "latitude": "49.5100",
+        "longitude": "0.0800",
+        "country": "France",
+        "region": "Normandie",
+        "population": "7116"
+    },
+    {
+        "name": "Guingamp",
+        "latitude": "48.5633",
+        "longitude": "-3.1500",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "7105"
+    },
+    {
+        "name": "Fontaines-sur-Saône",
+        "latitude": "45.8360",
+        "longitude": "4.8450",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "7047"
+    },
+    {
+        "name": "Liancourt",
+        "latitude": "49.3317",
+        "longitude": "2.4661",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "6983"
+    },
+    {
+        "name": "Courtry",
+        "latitude": "48.9175",
+        "longitude": "2.6031",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "6885"
+    },
+    {
+        "name": "Gournay-sur-Marne",
+        "latitude": "48.8606",
+        "longitude": "2.5772",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "6882"
+    },
+    {
+        "name": "Sathonay-Camp",
+        "latitude": "45.8242",
+        "longitude": "4.8747",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "6858"
+    },
+    {
+        "name": "Jacou",
+        "latitude": "43.6614",
+        "longitude": "3.9122",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "6823"
+    },
+    {
+        "name": "Beuvrages",
+        "latitude": "50.3867",
+        "longitude": "3.5064",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "6784"
+    },
+    {
+        "name": "Égly",
+        "latitude": "48.5798",
+        "longitude": "2.2218",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "6756"
+    },
+    {
+        "name": "Carnoux-en-Provence",
+        "latitude": "43.2564",
+        "longitude": "5.5644",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "6747"
+    },
+    {
+        "name": "Grenay",
+        "latitude": "50.4528",
+        "longitude": "2.7439",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "6704"
+    },
+    {
+        "name": "Luisant",
+        "latitude": "48.4325",
+        "longitude": "1.4772",
+        "country": "France",
+        "region": "Centre-Val de Loire",
+        "population": "6682"
+    },
+    {
+        "name": "Noyelles-sous-Lens",
+        "latitude": "50.4311",
+        "longitude": "2.8736",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "6659"
+    },
+    {
+        "name": "La Bassée",
+        "latitude": "50.5342",
+        "longitude": "2.8081",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "6622"
+    },
+    {
+        "name": "Neuves-Maisons",
+        "latitude": "48.6169",
+        "longitude": "6.1044",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "6619"
+    },
+    {
+        "name": "La Mulatière",
+        "latitude": "45.7281",
+        "longitude": "4.8122",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "6595"
+    },
+    {
+        "name": "Bouffémont",
+        "latitude": "49.0442",
+        "longitude": "2.3000",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "6584"
+    },
+    {
+        "name": "La Penne-sur-Huveaune",
+        "latitude": "43.2806",
+        "longitude": "5.5158",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "6569"
+    },
+    {
+        "name": "Jœuf",
+        "latitude": "49.2306",
+        "longitude": "6.0097",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "6560"
+    },
+    {
+        "name": "Cognin",
+        "latitude": "45.5630",
+        "longitude": "5.9000",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "6520"
+    },
+    {
+        "name": "La Montagne",
+        "latitude": "47.1833",
+        "longitude": "-1.6833",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "6488"
+    },
+    {
+        "name": "Bonsecours",
+        "latitude": "49.4300",
+        "longitude": "1.1300",
+        "country": "France",
+        "region": "Normandie",
+        "population": "6455"
+    },
+    {
+        "name": "Saint-Alban",
+        "latitude": "43.6928",
+        "longitude": "1.4156",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "6454"
+    },
+    {
+        "name": "L’Arbresle",
+        "latitude": "45.8364",
+        "longitude": "4.6178",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "6453"
+    },
+    {
+        "name": "Esbly",
+        "latitude": "48.9067",
+        "longitude": "2.8125",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "6402"
+    },
+    {
+        "name": "Le Mesnil-le-Roi",
+        "latitude": "48.9375",
+        "longitude": "2.1275",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "6322"
+    },
+    {
+        "name": "Fouquières-lès-Lens",
+        "latitude": "50.4294",
+        "longitude": "2.9136",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "6233"
+    },
+    {
+        "name": "La Verrière",
+        "latitude": "48.7592",
+        "longitude": "1.9631",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "6183"
+    },
+    {
+        "name": "Ambilly",
+        "latitude": "46.1940",
+        "longitude": "6.2230",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "6166"
+    },
+    {
+        "name": "Saint-Priest-en-Jarez",
+        "latitude": "45.4750",
+        "longitude": "4.3789",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "6164"
+    },
+    {
+        "name": "Magnanville",
+        "latitude": "48.9681",
+        "longitude": "1.6828",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "6155"
+    },
+    {
+        "name": "Pont-de-Chéruy",
+        "latitude": "45.7514",
+        "longitude": "5.1736",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "6096"
+    },
+    {
+        "name": "Menucourt",
+        "latitude": "49.0278",
+        "longitude": "1.9819",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "6093"
+    },
+    {
+        "name": "Ablon-sur-Seine",
+        "latitude": "48.7256",
+        "longitude": "2.4211",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "5946"
+    },
+    {
+        "name": "Champagne-au-Mont-d’Or",
+        "latitude": "45.7950",
+        "longitude": "4.7910",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "5936"
+    },
+    {
+        "name": "Palavas-les-Flots",
+        "latitude": "43.5303",
+        "longitude": "3.9314",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "5881"
+    },
+    {
+        "name": "Saintry-sur-Seine",
+        "latitude": "48.5962",
+        "longitude": "2.4929",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "5829"
+    },
+    {
+        "name": "Saint-André-de-la-Roche",
+        "latitude": "43.7411",
+        "longitude": "7.2883",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "5782"
+    },
+    {
+        "name": "Longueau",
+        "latitude": "49.8708",
+        "longitude": "2.3569",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "5767"
+    },
+    {
+        "name": "Le Port-Marly",
+        "latitude": "48.8967",
+        "longitude": "2.1106",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "5608"
+    },
+    {
+        "name": "Oberhausbergen",
+        "latitude": "48.6072",
+        "longitude": "7.6861",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "5556"
+    },
+    {
+        "name": "Heillecourt",
+        "latitude": "48.6531",
+        "longitude": "6.1950",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "5377"
+    },
+    {
+        "name": "Crégy-lès-Meaux",
+        "latitude": "48.9794",
+        "longitude": "2.8792",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "5354"
+    },
+    {
+        "name": "Loison-sous-Lens",
+        "latitude": "50.4389",
+        "longitude": "2.8533",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "5255"
+    },
+    {
+        "name": "Montaigu",
+        "latitude": "46.9736",
+        "longitude": "-1.3086",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "5160"
+    },
+    {
+        "name": "Bassens",
+        "latitude": "45.5756",
+        "longitude": "5.9400",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "5136"
+    },
+    {
+        "name": "Grand-Fort-Philippe",
+        "latitude": "50.9900",
+        "longitude": "2.1100",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "4977"
+    },
+    {
+        "name": "Mandres-les-Roses",
+        "latitude": "48.7022",
+        "longitude": "2.5444",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "4825"
+    },
+    {
+        "name": "La Frette-sur-Seine",
+        "latitude": "48.9750",
+        "longitude": "2.1794",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "4621"
+    },
+    {
+        "name": "Le Ban-Saint-Martin",
+        "latitude": "49.1225",
+        "longitude": "6.1511",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "4617"
+    },
+    {
+        "name": "Saint-Nicolas",
+        "latitude": "50.3031",
+        "longitude": "2.7781",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "4603"
+    },
+    {
+        "name": "Villiers-sur-Orge",
+        "latitude": "48.6574",
+        "longitude": "2.3001",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "4584"
+    },
+    {
+        "name": "Cap-d’Ail",
+        "latitude": "43.7219",
+        "longitude": "7.4064",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "4508"
+    },
+    {
+        "name": "Nilvange",
+        "latitude": "49.3428",
+        "longitude": "6.0508",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "4394"
+    },
+    {
+        "name": "Leuville-sur-Orge",
+        "latitude": "48.6175",
+        "longitude": "2.2658",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "4304"
+    },
+    {
+        "name": "Jacob-Bellecombette",
+        "latitude": "45.5582",
+        "longitude": "5.9100",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "4181"
+    },
+    {
+        "name": "Valras-Plage",
+        "latitude": "43.2478",
+        "longitude": "3.2917",
+        "country": "France",
+        "region": "Occitanie",
+        "population": "4167"
+    },
+    {
+        "name": "Avesnes-sur-Helpe",
+        "latitude": "50.1244",
+        "longitude": "3.9267",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "4118"
+    },
+    {
+        "name": "Ascq",
+        "latitude": "50.6167",
+        "longitude": "3.1667",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "3999"
+    },
+    {
+        "name": "Longeville-lès-Metz",
+        "latitude": "49.1153",
+        "longitude": "6.1361",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "3960"
+    },
+    {
+        "name": "Neuville-Saint-Rémy",
+        "latitude": "50.1883",
+        "longitude": "3.2231",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "3912"
+    },
+    {
+        "name": "Toufflers",
+        "latitude": "50.6617",
+        "longitude": "3.2303",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "3910"
+    },
+    {
+        "name": "Mareil-Marly",
+        "latitude": "48.8825",
+        "longitude": "2.0775",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "3826"
+    },
+    {
+        "name": "Lourches",
+        "latitude": "50.3150",
+        "longitude": "3.3560",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "3814"
+    },
+    {
+        "name": "Beaulieu-sur-Mer",
+        "latitude": "43.7050",
+        "longitude": "7.3300",
+        "country": "France",
+        "region": "Provence-Alpes-Côte d’Azur",
+        "population": "3796"
+    },
+    {
+        "name": "Sochaux",
+        "latitude": "47.5200",
+        "longitude": "6.8300",
+        "country": "France",
+        "region": "Bourgogne-Franche-Comté",
+        "population": "3795"
+    },
+    {
+        "name": "Bergues",
+        "latitude": "50.9692",
+        "longitude": "2.4350",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "3561"
+    },
+    {
+        "name": "Barby",
+        "latitude": "45.5722",
+        "longitude": "5.9784",
+        "country": "France",
+        "region": "Auvergne-Rhône-Alpes",
+        "population": "3553"
+    },
+    {
+        "name": "Fort-Mardyck",
+        "latitude": "51.0310",
+        "longitude": "2.3061",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "3426"
+    },
+    {
+        "name": "Neauphle-le-Château",
+        "latitude": "48.8153",
+        "longitude": "1.9031",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "3340"
+    },
+    {
+        "name": "Saint-Mammès",
+        "latitude": "48.3893",
+        "longitude": "2.8080",
+        "country": "France",
+        "region": "Île-de-France",
+        "population": "3302"
+    },
+    {
+        "name": "Les Noës-près-Troyes",
+        "latitude": "48.3031",
+        "longitude": "4.0419",
+        "country": "France",
+        "region": "Grand Est",
+        "population": "3267"
+    },
+    {
+        "name": "Pont-à-Vendin",
+        "latitude": "50.4744",
+        "longitude": "2.8894",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "3136"
+    },
+    {
+        "name": "Rouelles",
+        "latitude": "49.5208",
+        "longitude": "0.1608",
+        "country": "France",
+        "region": "Normandie",
+        "population": "3066"
+    },
+    {
+        "name": "Paimbœuf",
+        "latitude": "47.2833",
+        "longitude": "-2.0333",
+        "country": "France",
+        "region": "Pays de la Loire",
+        "population": "3015"
+    },
+    {
+        "name": "Courchelettes",
+        "latitude": "50.3400",
+        "longitude": "3.0600",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "2881"
+    },
+    {
+        "name": "Éleu-dit-Leauwette",
+        "latitude": "50.4217",
+        "longitude": "2.8119",
+        "country": "France",
+        "region": "Hauts-de-France",
+        "population": "2829"
+    },
+    {
+        "name": "Port-Louis",
+        "latitude": "47.7072",
+        "longitude": "-3.3519",
+        "country": "France",
+        "region": "Bretagne",
+        "population": "2679"
+    },
+    {
+        "name": "Sainte-Foy-la-Grande",
+        "latitude": "44.8400",
+        "longitude": "0.2200",
+        "country": "France",
+        "region": "Nouvelle-Aquitaine",
+        "population": "2615"
+    }
+]

@@ -1,110 +1,111 @@
 import { useState, useEffect } from 'react';
 import { cityService } from '../services/apiService';
 import { City } from '../types';
+import FRENCH_CITIES_BASE_DATA from "../data/cities.json"
 
 // Données de base des villes françaises (coordonnées et infos de base)
-const FRENCH_CITIES_BASE_DATA = [
-  {
-    id: 'paris',
-    name: 'Paris',
-    latitude: 48.8566,
-    longitude: 2.3522,
-    population: 2140526,
-    country: 'France',
-    region: 'Île-de-France',
-    description: 'Capitale de la France, centre politique, économique et culturel du pays.'
-  },
-  {
-    id: 'marseille',
-    name: 'Marseille',
-    latitude: 43.2965,
-    longitude: 5.3698,
-    population: 870731,
-    country: 'France',
-    region: 'Provence-Alpes-Côte d\'Azur',
-    description: 'Deuxième ville de France, grand port méditerranéen.'
-  },
-  {
-    id: 'lyon',
-    name: 'Lyon',
-    latitude: 45.7640,
-    longitude: 4.8357,
-    population: 518635,
-    country: 'France',
-    region: 'Auvergne-Rhône-Alpes',
-    description: 'Capitale des Gaules, centre économique majeur.'
-  },
-  {
-    id: 'toulouse',
-    name: 'Toulouse',
-    latitude: 43.6047,
-    longitude: 1.4442,
-    population: 479553,
-    country: 'France',
-    region: 'Occitanie',
-    description: 'Ville rose, capitale européenne de l\'aéronautique.'
-  },
-  {
-    id: 'nice',
-    name: 'Nice',
-    latitude: 43.7102,
-    longitude: 7.2620,
-    population: 342637,
-    country: 'France',
-    region: 'Provence-Alpes-Côte d\'Azur',
-    description: 'Perle de la Côte d\'Azur.'
-  },
-  {
-    id: 'nantes',
-    name: 'Nantes',
-    latitude: 47.2184,
-    longitude: -1.5536,
-    population: 320732,
-    country: 'France',
-    region: 'Pays de la Loire',
-    description: 'Ville verte et innovante.'
-  },
-  {
-    id: 'montpellier',
-    name: 'Montpellier',
-    latitude: 43.6110,
-    longitude: 3.8767,
-    population: 295542,
-    country: 'France',
-    region: 'Occitanie',
-    description: 'Ville universitaire dynamique.'
-  },
-  {
-    id: 'strasbourg',
-    name: 'Strasbourg',
-    latitude: 48.5734,
-    longitude: 7.7521,
-    population: 284677,
-    country: 'France',
-    region: 'Grand Est',
-    description: 'Capitale européenne.'
-  },
-  {
-    id: 'bordeaux',
-    name: 'Bordeaux',
-    latitude: 44.8378,
-    longitude: -0.5792,
-    population: 257804,
-    country: 'France',
-    region: 'Nouvelle-Aquitaine',
-    description: 'Capitale mondiale du vin.'
-  },
-  {
-    id: 'lille',
-    name: 'Lille',
-    latitude: 50.6292,
-    longitude: 3.0573,
-    population: 236234,
-    country: 'France',
-    region: 'Hauts-de-France',
-    description: 'Carrefour européen.'
-  }
-];
+// const FRENCH_CITIES_BASE_DATA = [
+//   {
+//     id: 'paris',
+//     name: 'Paris',
+//     latitude: 48.8566,
+//     longitude: 2.3522,
+//     population: 2140526,
+//     country: 'France',
+//     region: 'Île-de-France',
+//     description: 'Capitale de la France, centre politique, économique et culturel du pays.'
+//   },
+//   {
+//     id: 'marseille',
+//     name: 'Marseille',
+//     latitude: 43.2965,
+//     longitude: 5.3698,
+//     population: 870731,
+//     country: 'France',
+//     region: 'Provence-Alpes-Côte d\'Azur',
+//     description: 'Deuxième ville de France, grand port méditerranéen.'
+//   },
+//   {
+//     id: 'lyon',
+//     name: 'Lyon',
+//     latitude: 45.7640,
+//     longitude: 4.8357,
+//     population: 518635,
+//     country: 'France',
+//     region: 'Auvergne-Rhône-Alpes',
+//     description: 'Capitale des Gaules, centre économique majeur.'
+//   },
+//   {
+//     id: 'toulouse',
+//     name: 'Toulouse',
+//     latitude: 43.6047,
+//     longitude: 1.4442,
+//     population: 479553,
+//     country: 'France',
+//     region: 'Occitanie',
+//     description: 'Ville rose, capitale européenne de l\'aéronautique.'
+//   },
+//   {
+//     id: 'nice',
+//     name: 'Nice',
+//     latitude: 43.7102,
+//     longitude: 7.2620,
+//     population: 342637,
+//     country: 'France',
+//     region: 'Provence-Alpes-Côte d\'Azur',
+//     description: 'Perle de la Côte d\'Azur.'
+//   },
+//   {
+//     id: 'nantes',
+//     name: 'Nantes',
+//     latitude: 47.2184,
+//     longitude: -1.5536,
+//     population: 320732,
+//     country: 'France',
+//     region: 'Pays de la Loire',
+//     description: 'Ville verte et innovante.'
+//   },
+//   {
+//     id: 'montpellier',
+//     name: 'Montpellier',
+//     latitude: 43.6110,
+//     longitude: 3.8767,
+//     population: 295542,
+//     country: 'France',
+//     region: 'Occitanie',
+//     description: 'Ville universitaire dynamique.'
+//   },
+//   {
+//     id: 'strasbourg',
+//     name: 'Strasbourg',
+//     latitude: 48.5734,
+//     longitude: 7.7521,
+//     population: 284677,
+//     country: 'France',
+//     region: 'Grand Est',
+//     description: 'Capitale européenne.'
+//   },
+//   {
+//     id: 'bordeaux',
+//     name: 'Bordeaux',
+//     latitude: 44.8378,
+//     longitude: -0.5792,
+//     population: 257804,
+//     country: 'France',
+//     region: 'Nouvelle-Aquitaine',
+//     description: 'Capitale mondiale du vin.'
+//   },
+//   {
+//     id: 'lille',
+//     name: 'Lille',
+//     latitude: 50.6292,
+//     longitude: 3.0573,
+//     population: 236234,
+//     country: 'France',
+//     region: 'Hauts-de-France',
+//     description: 'Carrefour européen.'
+//   }
+// ];
 
 interface UseCitiesDataReturn {
   cities: City[];
@@ -123,8 +124,6 @@ export const useCitiesData = (): UseCitiesDataReturn => {
       setLoading(true);
       setError(null);
 
-      console.log('🌍 Chargement des données des villes avec les APIs...');
-
       // Charger les données de qualité de l'air pour chaque ville
       const citiesWithAirQuality = await Promise.allSettled(
         FRENCH_CITIES_BASE_DATA.map(async (cityData) => {
@@ -132,14 +131,12 @@ export const useCitiesData = (): UseCitiesDataReturn => {
           
           try {
             const cityWithAQ = await cityService.createCityWithAirQuality(
-              cityData.id,
               cityData.name,
               cityData.latitude,
               cityData.longitude,
               cityData.population,
               cityData.country,
               cityData.region,
-              cityData.description
             );
             
             console.log(`✅ ${cityData.name} chargée avec AQI: ${cityWithAQ.airQuality.aqi}`);
@@ -202,14 +199,12 @@ function createFallbackCityData(baseData: typeof FRENCH_CITIES_BASE_DATA[0]): Ci
   const fallbackAqi = 40 + Math.random() * 40; // AQI entre 40 et 80
   
   return {
-    id: baseData.id,
     name: baseData.name,
     department: getDefaultDepartment(baseData.region),
     region: baseData.region,
     latitude: baseData.latitude,
     longitude: baseData.longitude,
     population: baseData.population,
-    description: baseData.description,
     airQuality: {
       aqi: Math.round(fallbackAqi),
       category: getAirQualityCategory(fallbackAqi),

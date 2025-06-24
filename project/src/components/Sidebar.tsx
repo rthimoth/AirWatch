@@ -1,5 +1,5 @@
 import React from 'react';
-import { Home, BarChart3, Wind, FileText, Users, Settings } from 'lucide-react';
+import { Home, Wind } from 'lucide-react';
 
 interface SidebarProps {
   activeTab: string;
@@ -9,10 +9,6 @@ interface SidebarProps {
 const menuItems = [
   { id: 'dashboard', name: 'Vue d\'ensemble', icon: Home },
   { id: 'iqa', name: 'Analyse IQA', icon: Wind },
-  // { id: 'analytics', name: 'Statistiques', icon: BarChart3 },
-  // { id: 'reports', name: 'Rapports', icon: FileText },
-  // { id: 'users', name: 'Utilisateurs', icon: Users },
-  { id: 'settings', name: 'Paramètres', icon: Settings },
 ];
 
 export const Sidebar: React.FC<SidebarProps> = ({ activeTab, onTabChange }) => {
