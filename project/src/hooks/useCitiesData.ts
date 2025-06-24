@@ -2,6 +2,21 @@ import { useState, useEffect } from 'react';
 import { cityService } from '../services/apiService';
 import { City } from '../types';
 
+// Cache simple pour stabiliser les données de fallback
+const fallbackCache = new Map<string, number>();
+const cacheTimestamp = new Map<string, number>();
+
+// Nettoyer le cache après 30 minutes pour permettre des variations naturelles
+const cleanOldCacheEntries = () => {
+  const thirtyMinutesAgo = Date.now() - (30 * 60 * 1000);
+  for (const [key, timestamp] of cacheTimestamp) {
+    if (timestamp < thirtyMinutesAgo) {
+      fallbackCache.delete(key);
+      cacheTimestamp.delete(key);
+    }
+  }
+};
+
 // Données de base des villes françaises (coordonnées et infos de base)
 const FRENCH_CITIES_BASE_DATA = [
   {
@@ -199,7 +214,25 @@ export const useCitiesData = (): UseCitiesDataReturn => {
 
 // Fonction utilitaire pour créer des données par défaut
 function createFallbackCityData(baseData: typeof FRENCH_CITIES_BASE_DATA[0]): City {
-  const fallbackAqi = 40 + Math.random() * 40; // AQI entre 40 et 80
+  // Nettoyer les entrées de cache trop anciennes
+  cleanOldCacheEntries();
+  
+  // Utiliser le cache pour éviter les variations aléatoires trop importantes
+  let fallbackAqi: number;
+  
+  if (fallbackCache.has(baseData.id)) {
+    // Si on a une valeur en cache, ajouter seulement une petite variation réaliste
+    const cachedAqi = fallbackCache.get(baseData.id)!;
+    const smallVariation = (Math.random() - 0.5) * 8; // Variation de ±4 points max
+    fallbackAqi = Math.max(25, Math.min(90, cachedAqi + smallVariation));
+  } else {
+    // Première fois : générer une valeur de base et la mettre en cache
+    fallbackAqi = 40 + Math.random() * 30; // AQI entre 40 et 70
+  }
+  
+  // Mettre à jour le cache avec la nouvelle valeur et le timestamp
+  fallbackCache.set(baseData.id, fallbackAqi);
+  cacheTimestamp.set(baseData.id, Date.now());
   
   return {
     id: baseData.id,
